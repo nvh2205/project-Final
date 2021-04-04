@@ -1,0 +1,110 @@
+{
+    "data": [
+        {
+            "title":"COOK",
+            "id":1,
+            "listStyle":[
+                {
+                    "id":"1-cook-1",
+                    "titleChild":"Mon an truyen thong",
+                    "listDish":[{
+                        "id":"1-cook-1-trandition-1",
+                        "name":"Nem",
+                        "describe":"Đây là món ăn truyền thống dinh dưỡng cao vitaminc nhiều...",
+                        "ingredient":["Bánh đa nem","Thịt heo:200g","Rau củ:100g"],
+                        "making":["Bước 1:Đập trứng","Bước 2: Cho vô nồi"],
+                        "price":20000,
+                        "numberPeople":4
+                        },
+
+                        {"id":"1-cook-1-trandition-2",
+                        "name":"Thịt lợn xào tỏi",
+                        "describe":"Món ăn giàu sắt tốt cho da",
+                        "ingredient":["Thịt heo:200g","Rau củ:100g","Tiêu:2 thìa"],
+                        "making":["Bước 1:Rửa thịt","Bước 2: Cho vô nồi"],
+                        "price":40000,
+                        "numberPeople":5
+                        }
+                    ]
+                    
+                },
+                {
+                    "id":"1-cook-2",
+                    "titleChild":"Ẩm thực nước ngoài",
+                    "listDish":[
+                        {
+                            "id":"1-cook-2-Foreign-1",
+                            "name":"Pizza",
+                            "describe":"Phong cách pizza ý nhiều chất... phù hợp....",
+                            "ingredient":["Bột:100g","Thịt heo:200g","Rau củ:10g"],
+                            "making":["Bước 1:Đập trứng","Bước 2: Cho thịt vô"],
+                            "price":100000,
+                            "numberPeople":4
+                        }
+                    ]
+                },
+                {
+                    "id":"1-cook-3",
+                    "titleChild":"Đặc sản vùng miền",
+                    "listDish":[
+                        {
+                            "id":"1-cook-3-Specialties-1",
+                            "name":"Nem chua",
+                            "describe":"Đặc sản Thanh hoa thơm ngon....",
+                            "ingredient":["Bột:100g","Thịt heo:200g","Rau củ:10g"],
+                            "making":["Bước 1:Cho thịt","Bước 2: Cho vô nồi"],
+                            "price":100000,
+                            "numberPeople":4
+                        }
+                    ]
+                }
+            ]
+
+        },
+
+
+        {
+            "title":"Market",
+            "id":2,
+            "food":[
+                {
+                    "titleChild":"Meat",
+                    "id":"2-market-1",
+                    "listFood":[
+                        {
+                            "id":"2-market-1-Meat-1",
+                            "name":"Thịt heo Mỹ",
+                            "quantitative":"500g",
+                            "price":100000
+                        },
+                        {
+                            "id":"2-market-1-Meat-2",
+                            "name":"Thịt bò Mỹ",
+                            "quantitative":"500g",
+                            "price":45000
+                        }
+                    ]
+                },
+                {
+                    "titleChild":"Dring",
+                    "id":"2-market-2",
+                    "listFood":[
+                        {
+                            "id":"2-market-1-Dring-1",
+                            "name":"Coca",
+                            "quantitative":1,
+                            "price":10000
+                        },
+                        {
+                            "id":"2-market-1-Dring-1",
+                            "name":"7-Up",
+                            "quantitative":1,
+                            "price":15000
+                        }
+                    ]
+                }
+            ]
+
+        }
+    ]
+}

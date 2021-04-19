@@ -1,224 +1,1229 @@
 {
     "data": [
         {
-            "title": "COOK",
+            "title": "Món ngon có sẵn",
             "id": "1",
             "listStyle": [
                 {
+                    "title": "Món kho",
                     "id": "1",
-                    "title": "Ẩm thực Việt Nam",
-                    "listDish": [
+                    "img": "./img/Món Kho.jpg",
+                    "menu": [
                         {
-                            "title": "Món Xào",
                             "id": "1",
-                            "menu": [
-                                {
-                                    "id": 1,
-                                    "name": "Gà xào ngũ vị",
-                                    "describe": "Đây là món ăn truyền thống dinh dưỡng cao vitaminc nhiều...",
-                                    "ingredient": [
-                                        "1,5kg gà ta",
-                                        "50g ớt sừng không cay",
-                                        "20g ớt xa",
-                                        "10g ớt khô Huế",
-                                        "20g hành tím khô",
-                                        " 20 tỏi",
-                                        " 20g tương ớt",
-                                        " 10ml màu điều 10g bột thịt gà",
-                                        " súp nền lẩu Thái 10ml dầu ăn"
-                                    ],
-                                    "making": [
-                                        "Bước 1:ấy hành tím bóc sạch vỏ rửa sạch và tỏi cũng làm tương tự như thế để qua một bên trong khay nhỏ để sau đó chế cho tiện lợi.",
-                                        "Bước 2: tổng hợp gia vị đã chuẩn bị sẵn ở trên vào máy sinh tố và cứ thế xay thật nhuyễn. Sau đó cho nước xốt ra một to lớn hoặc có thể để nguyên trong máy xay rồi tắt máy",
-                                        "Bước 3:lấy gà đã được làm sạch rồi đem ướp với nước xốt đã vừa mới chế biến khi nãy vào bên trong cũng như bên ngoài da của gà. Và chúng ta nên để khoảng 20 phút cho nước xốt thấm đều. Sau đó tiếp tục cho vào lò nướng ở nhiệt độ 180 nướng khoảng 25 phút. Sau khi gà chín vàng thị lấy ra"
-                                    ],
-                                    "price": 50000,
-                                    "numberPeople": 4,
-                                    "Prepare": "30 minute",
-                                    "Cook": "6 hour"
-                                },
-                                {
-                                    "id": "2",
-                                    "name": "Thịt lợn xào tỏi",
-                                    "describe": "Món ăn giàu sắt tốt cho da",
-                                    "ingredient": [
-                                        "500g gà ta",
-                                        " Mè đen: 5g",
-                                        " Mật ong: 1 muỗng",
-                                        " Nước tương: 1 thìa",
-                                        " Nước mắm: 1 thìa",
-                                        " Gừng: ½ củ",
-                                        " Hành lá: 10g"
-                                    ],
-                                    "making": [
-                                        "Bước 1:cho một ít nước tương, nước mắm, Knorr Gia Vị Hoàn Chỉnh - Thịt Kho và mật ong vào một bát nhỏ rồi khuấy đều",
-                                        "Bước 2: Các bạn cho đùi gà vào bát nước ướp vừa pha lúc nãy rồi dùng muỗng thoa đều nước tương lên những miếng gà và cho vào tủ lạnh ướp khoảng 15 phút. Bạn có thể dùng tăm hoặc dĩa xiên vài lỗ trên đùi gà để phần gia vị có thể thấm nhanh và kỹ vào thịt gà hơn",
-                                        "Bước 3:xếp hành và gừng trải đều lên khay nướng, rồi để những miếng gà lên phía trên cùng. Sau đó, bạn cho khay vào lò, nướng ở nhiệt độ khoảng 200 độ c, nướng trong vòng 30 phút. Bạn nhớ canh trở gà liên tục để gà có thể chín đều. Khi đùi gà có màu vàng cánh gián đẹp mắt thì hãy cho ra ngoài.",
-                                        "Bước 4:Cuối cùng, sau khi hoàn tất việc nướng thịt gà rồi thì hãy xếp thịt gà ra đĩa và rắc mè lên phía trên đĩa và trang trí với rau sống, dưa leo, cà chua tùy sở thích của bạn. Phần nước sốt còn lại bạn có thể dùng để trộn ăn với cơm rất ngon."
-                                    ],
-                                    "price": 40000,
-                                    "numberPeople": 3,
-                                    "Prepare": "30 minute",
-                                    "Cook": "6 hour"
-                                }
-                            ]
+                            "name": "BA RỌI KHO TIÊU ĐẬM VỊ MIỀN NAM",
+                            "img": "./img/ba_rọi_kho_tiêu.jpg",
+                            "describe": "Bữa cơm gia đình bạn sẽ ngon hơn với món ba rọi kho tiêu này. Đây cũng là một trong các ăn hàng ngày phổ biến tron bữa cơm gia đình.",
+                            "ingredient": [
+                                "300g thịt ba rọi, ít mỡ, cắt que",
+                                "3 tép tỏi, bằm nhuyễn",
+                                "¼ trái ớt sừng, cắt miếng mỏng",
+                                "2 nhánh hành lá, cắt khúc vừa ăn",
+                                "1 gói Knorr Gia Vị Hoàn Chỉnh - Thịt Kho",
+                                "¼ muỗng cà phê tiêu xay",
+                                "2 muỗng canh dầu ăn",
+                                "2/3 chén nước lọc"
+                            ],
+                            "making": [
+                                "Bước 1: Cách chọn thịt ba rọi: Để có một miếng thịt ba rọi ngon đúng chuẩn, bạn nên chọn loại có sự hài hoà giữa mỡ và nạc: đủ 3 thớ thịt, nạc và mỡ phải kết hợp cân đối với nhau thì thịt mới ngon, không quá ngấy cũng không quá khô, khi nấu lên cảm giác vừa miệng và thơm ngon. Ngoài ra, các thớ thịt đàn hồi tốt, bề mặt da lợn mịn, không quá khô cũng không quá nhờn. Thịt ba rọi chuẩn khi sở hữu màu đỏ tươi, nếu thịt có màu sắc tối quá nghĩa là thịt đã cũ, còn thịt sáng quá lại là sản phẩm đã qua xử lý hoá chất.",
+                                "Bước 2: Sơ chế thịt ba rọi: Thịt ba rọi rửa sạch với nước muối pha loãng rồi rửa lại bằng nước sạch nhiều lần để loại bỏ các chất bẩn từ thịt ra. Sau khi rửa sạch, bạn thái miếng vừa ăn cỡ ngón tay cái, đừng thái mỏng quá nhé. Kế đến, bật bếp lên và cho nước sôi vào chần sơ thịt qua nước sôi nóng khoảng 3 phút để khi chế biến thịt vẫn căng bóng, đẹp mắt và không bị khô lại. Đập dập 3 tép tỏi và băm nhuyễn cùng với ¼ trái ớt sừng. Cắt nhuyễn 2 nhánh hành lá, chỉ lấy khúc đầu trắng thôi. Mỗi thứ bỏ vào một chén riêng.",
+                                "Bước 3: Cho thịt đã sơ chế vào tô, ướp với 1 muỗng canh tỏi băm, cùng 1 muỗng canh Knorr Gia Vị Hoàn Chỉnh - Thịt Kho rồi trộn đều và để trong 15 phút cho thịt thấm vị. Bắc chảo lên bếp, đổ 1 muỗng canh dầu ăn rồi cho 1 muỗng canh đường cát trắng vào, bật lửa riu riu nấu cho đường cát chảy ra và chuyển sang màu vàng nâu thì bỏ thịt vào xào. Bắt chảo lên trên bếp đến khi chảo nóng già thì cho vào một thìa canh đường cát trắng rồi bật lửa vừa vừa nấu cho đường cát chảy ra, chuyển sang màu vàng nâu thì bỏ thịt vào kho cho hơi cháy một chút. Lưu ý là bạn không cần cho dầu ăn vào món thịt ba rọi kho tiêu đâu vị lượng mỡ tiết ra từ thịt cũng đủ béo rồi. Sau đó bạn cho ⅔ chén nước dừa xiêm vào kho khoảng 10 phút đến khi nước sốt sền sệt lại là được. Cho hành lá vào rồi tắt bếp.",
+                                "Bước 4: Múc thức ăn ra dĩa, rắt tiêu lên bề mặt và dùng nóng với cơm trắng và ăn kèm với các loại rau củ như dưa leo, cà chua, xà lách. Có thể trang trí thêm hành ngò thái nhỏ để món ăn đẹp mắt hơn. Món ăn này thơm đúng điệu khi có vị hơi ngọt theo kiểu miền Nam, cay the the của ớt và thơm mùi tiêu, hành ngò đánh thức mọi giác quan. Lát thịt thấm đều gia vị, mềm và có màu nâu cánh gián đẹp mắt. Chúc bạn thành công với món ngon từ thịt heo này nhé!"
+                            ],
+                            "price": 50000,
+                            "numberPeople": 4,
+                            "Prepare": "15 minutes",
+                            "Cook": "15 minutes"
                         },
                         {
-                            "title": "COMBO gia đình",
                             "id": "2",
-                            "menu": [
-                                {
-                                    "id": 1,
-                                    "name": "COMBO 1:Mực nhồi thịt sốt cà chua - Rau lang luộc chấm mắm - Cà pháo - Canh mướp nấu rau dền",
-                                    "describe": "Đây là món ăn truyền thống dinh dưỡng cao vitaminc nhiều...",
-                                    "ingredient": [
-                                        {
-                                            "name": "Mực nhồi thịt sốt cà chua",
-                                            "ingredient": [
-                                                "1,5kg gà ta",
-                                                "50g ớt sừng không cay",
-                                                "20g ớt xa",
-                                                "10g ớt khô Huế",
-                                                "20g hành tím khô",
-                                                " 20 tỏi",
-                                                " 20g tương ớt",
-                                                " 10ml màu điều 10g bột thịt gà",
-                                                " súp nền lẩu Thái 10ml dầu ăn"
-                                            ],
-                                            "making": [
-                                                "Bước 1:ấy hành tím bóc sạch vỏ rửa sạch và tỏi cũng làm tương tự như thế để qua một bên trong khay nhỏ để sau đó chế cho tiện lợi.",
-                                                "Bước 2: tổng hợp gia vị đã chuẩn bị sẵn ở trên vào máy sinh tố và cứ thế xay thật nhuyễn. Sau đó cho nước xốt ra một to lớn hoặc có thể để nguyên trong máy xay rồi tắt máy",
-                                                "Bước 3:lấy gà đã được làm sạch rồi đem ướp với nước xốt đã vừa mới chế biến khi nãy vào bên trong cũng như bên ngoài da của gà. Và chúng ta nên để khoảng 20 phút cho nước xốt thấm đều. Sau đó tiếp tục cho vào lò nướng ở nhiệt độ 180 nướng khoảng 25 phút. Sau khi gà chín vàng thị lấy ra"
-                                            ]
-                                        },
-                                        {
-                                            "name": "Rau lang luộc chấm mắm",
-                                            "ingredient": [
-                                                "1,5kg gà ta",
-                                                "50g ớt sừng không cay",
-                                                "20g ớt xa",
-                                                "10g ớt khô Huế",
-                                                "20g hành tím khô",
-                                                " 20 tỏi",
-                                                " 20g tương ớt",
-                                                " 10ml màu điều 10g bột thịt gà",
-                                                " súp nền lẩu Thái 10ml dầu ăn"
-                                            ],
-                                            "making": [
-                                                "Bước 1:ấy hành tím bóc sạch vỏ rửa sạch và tỏi cũng làm tương tự như thế để qua một bên trong khay nhỏ để sau đó chế cho tiện lợi.",
-                                                "Bước 2: tổng hợp gia vị đã chuẩn bị sẵn ở trên vào máy sinh tố và cứ thế xay thật nhuyễn. Sau đó cho nước xốt ra một to lớn hoặc có thể để nguyên trong máy xay rồi tắt máy",
-                                                "Bước 3:lấy gà đã được làm sạch rồi đem ướp với nước xốt đã vừa mới chế biến khi nãy vào bên trong cũng như bên ngoài da của gà. Và chúng ta nên để khoảng 20 phút cho nước xốt thấm đều. Sau đó tiếp tục cho vào lò nướng ở nhiệt độ 180 nướng khoảng 25 phút. Sau khi gà chín vàng thị lấy ra"
-                                            ]
-                                        },
-                                        {
-                                            "name": "Canh mướp nấu rau dền",
-                                            "ingredient": [
-                                                "1,5kg gà ta",
-                                                "50g ớt sừng không cay",
-                                                "20g ớt xa",
-                                                "10g ớt khô Huế",
-                                                "20g hành tím khô",
-                                                " 20 tỏi",
-                                                " 20g tương ớt",
-                                                " 10ml màu điều 10g bột thịt gà",
-                                                " súp nền lẩu Thái 10ml dầu ăn"
-                                            ],
-                                            "making": [
-                                                "Bước 1:ấy hành tím bóc sạch vỏ rửa sạch và tỏi cũng làm tương tự như thế để qua một bên trong khay nhỏ để sau đó chế cho tiện lợi.",
-                                                "Bước 2: tổng hợp gia vị đã chuẩn bị sẵn ở trên vào máy sinh tố và cứ thế xay thật nhuyễn. Sau đó cho nước xốt ra một to lớn hoặc có thể để nguyên trong máy xay rồi tắt máy",
-                                                "Bước 3:lấy gà đã được làm sạch rồi đem ướp với nước xốt đã vừa mới chế biến khi nãy vào bên trong cũng như bên ngoài da của gà. Và chúng ta nên để khoảng 20 phút cho nước xốt thấm đều. Sau đó tiếp tục cho vào lò nướng ở nhiệt độ 180 nướng khoảng 25 phút. Sau khi gà chín vàng thị lấy ra"
-                                            ]
-                                        }
-                                    ],
-                                    "price": 50000,
-                                    "numberPeople": 4
-                                }
-                            ]
+                            "name": "CÁ CƠM KHO KHÔ CHO NGÀY MƯA",
+                            "img": "./img/cá_cơm_kho_khô.jpg",
+                            "describe": "Cá cơm kho khô là món dễ ăn, dễ làm và có thể ăn kèm cơm trắng hoặc là cháo. Đây là món phổ biến trong thực đơn hằng ngày của các gia đình.",
+                            "ingredient": [
+                                "300g cá cơm",
+                                "1 gói Knorr Gia Vị Hoàn Chỉnh - Cá Kho",
+                                "1g ớt băm nhỏ",
+                                "3g đầu hành băm nhỏ",
+                                "8g tỏi băm",
+                                "20g dầu ăn",
+                                "150ml nước",
+                                "0.2g tiêu"
+                            ],
+                            "making": [
+                                "Bước 1: Đầu tiên bạn đem rửa sạch cá cơm. Tốt nhất là nên rửa sạch với nước muối pha loãng, sau đó tiếp tục ngâm với hỗn hợp nước muối pha đường khoảng 10 phút rồi vớt ra, để cho ráo nước.",
+                                "Bước 2: Bắt chảo lên bếp, đợi chảo nóng rồi cho cá cơm đã rửa sạch ban nãy vào đảo đều cho cá khô hoàn toàn. Cách này giúp cho cá trở nên khô và săn lại, ăn ngon và đỡ ngán hơn.",
+                                "Bước 3: Sau khi cá đã khô lại, bạn cho phần cá cơm vừa đảo trên chảo ra một đĩa riêng. Sau đó bạn vẫn dùng chính chiếc chảo đó, cho hai muỗng dầu ăn và đợi dầu sôi lên thì tiếp tục cho tỏi, hành tím đã được băm nhuyễn vào xào xơ qua cho dậy mùi thơm.",
+                                "Bước 4: Bạn cho tiếp cá cơm vào chảo. Sau đó bắt đầu nêm nếm gia vị gồm: 1 muỗng hạt nêm Knorr Gia Vị Hoàn Chỉnh - Cá Kho, 2 muỗng nước mắm, 1 muỗng cà phê tiêu, ớt, 2 muỗng đường sau đó bật lửa cho sôi. Tùy vào khẩu vị của các thành viên trong gia đình mà bạn có thể thêm các gia vị khác để cho món ăn thêm đậm đà và hấp dẫn hơn nhé.",
+                                "Bước 5: Bạn châm vào nửa chén nước, chú ý châm đến khi nước ngập mặt cá, sau đó thêm 1 muỗng hạt nêm Knorr Gia Vị Hoàn Chỉnh - Cá Kho và tiếp tục kho. Cho đến khi nước rút gần hết thì châm thêm tí nước làm như thế khoảng 2 đến 3 lần. Chú ý không để nước cạn có thể bị khét. Trong qua trình kho không dùng đũa đảo trộn có thể làm cá bị nát. Chú ý để lửa liu riu trong quá trình kho nhé.",
+                                "Bước 6: Khi nước đã cạn, bạn có thể tắt bếp, nhấc chảo xuống và không cần đậy nắp. Làm như vậy thì cá sẽ khô hơn và rất ngon miệng.",
+                                "Bước 7: Cho cá ra đĩa, rắc thêm một muỗng tiêu và ăn kèm với cơm nóng hoặc cháo trắng. Cá cơm kho khô thực sự là một trong những món ăn từ cá lí tưởng cho những ngày mưa. Đặc biệt, món ăn này có thể ăn được trong nhiều ngày mà không lo lắng sẽ bị ôi thiu. Vì cá cơm đã được kho khô lại, do đó bạn chỉ việc hâm nóng chúng để ăn thôi. Với hạt nêm Knorr Gia Vị Hoàn Chỉnh - Cá Kho này, công được ướp cá để kho của bạn cực kì đơn giản."
+                            ],
+                            "price": 25000,
+                            "numberPeople": 4,
+                            "Prepare": "15 minutes",
+                            "Cook": "10 minutes"
+                        },
+                        {
+                            "id": "3",
+                            "name": "THỊT GÀ KHO LÁ GỪNG - MÓN NGON TỪ GÀ",
+                            "img": "./img/thịt_gà_kho_lá_gừng.jpg",
+                            "describe": "Thịt gà kho lá gừng là món ngon từ thịt gà lí tưởng cho gia đình. Vị ngọt từ thịt, hương thơm của lá gừng sẽ khiến bạn không thể cưỡng lại.",
+                            "ingredient": [
+                                "1/2 con gà ta (khoảng 800g)",
+                                "1 nắm lá gừng",
+                                "2/3 chén nước dừa",
+                                "2 gói Knorr Gia Vị Hoàn Chỉnh - Thịt Kho"
+                            ],
+                            "making": [
+                                "Bước 1: Để có món thịt gà ngon đúng điệu thì chọn loại gà ta, thịt chắc, ngọt, không bị bở là điều cực kì quan trọng. Cách chọn gà ngon là nên chọn con không già, thịt sẽ dai, cũng không chọn con quá non, thịt sẽ không dày và không chắc thịt, rang sẽ ra nước nhiều. Và thịt gà ta thì sẽ ngon hơn gà công nghiệp nhiều đấy!",
+                                "Bước 2: Đầu tiên, khi mua thịt gà về, bạn rửa với muối và nước lạnh cho thật kĩ, xát muối vào mình gà rồi rửa lại bằng nước có pha rượu trắng hoặc giấm cho thật sạch. Bạn có thể chọn mua cánh, đùi hay ức tùy theo sở thích.",
+                                "Bước 3: Sau đó bạn dùng dao sắt và thớt sạch, chặt thành từng miếng cho vừa ăn nhé, lưu ý nên chặt hơi to một chút vì khi rang gà sẽ săn lại. Rồi tiếp tục, bạn cho gà vào một tô lớn ướp với 2 gói Knorr Gia Vị Hoàn Chỉnh - Thịt Kho, trộn cho thật đều rồi bạn để trong vòng 15-20 phút cho gà thấm gia vị.",
+                                "Bước 4: Lá gừng mua về đem rửa sạch rồi cắt khúc khoảng 2-3cm rồi bỏ vào rổ để cho ráo.",
+                                "Bước 5: Bắc nồi lên bếp, cho một ít dầu ăn vào đun nóng rồi trút thịt gà vào đảo đều. Khi thịt gà đun được khoảng 5 phút, bạn cho nước dừa vào chảo, đun thật nhỏ lửa đến khi cảm giác nước kho sền sệt, quyện vào thịt gà. Bạn nhớ canh mở nắp vung trở gà cho gà chín đều bạn nhé. Cuối cùng, khi thịt gà đã chín, bạn cho lá gừng vào và đun một lúc nữa rồi tắt bếp. Mỗi loại gà sẽ có độ dai khác nhau nên bạn hãy xem nồi kho gà để tránh không bị quá nhừ và quá dai.",
+                                "Bước 6: Cuối cùng, cho thịt gà rang lá gừng ra đĩa, rắc thêm chút hạt tiêu cho dậy mùi và thưởng thức nóng với cơm trắng rất đưa cơm và ngon miệng."
+                            ],
+                            "price": 60000,
+                            "numberPeople": 6,
+                            "Prepare": "15 minutes",
+                            "Cook": "40 minutes"
+                        },
+                        {
+                            "id":"4",
+                            "name":"CÁ TRẮM KHO DƯA DẢI",
+                            "img":"./img/Cá_trắm_kho_dưa_dải.jpeg",
+                            "describe":"Cùng vào bếp để trổ tài nấu cá kho ngon với món Cá Trắm Kho Dưa Cải thơm ngon, đậm vị.",
+                            "ingredient":["Cá trắm: 1 con (600 gram)",
+                                "2 cây cải chua",
+                                "3 củ hành tím",
+                                "10g hành lá",
+                                "3 trái ớt hiểm",
+                                "2 gói Knorr Gia vị Hoàn Chỉnh Cá Kho",
+                                "2 thìa súp dầu ăn",
+                                "1/2 thìa súp nước màu",
+                                "Tiêu: 1 thìa"
+                            ],
+                            "making":["Bước 1:Đầu tiên, bạn cần chuẩn bị và rửa sạch qua các nguyên liệu như cá trắm, cải chua, hành tím, hành lá và ớt trái.",
+                                "Bước 2:Sau đó, bạn cắt cá trắm thành từng khứa lớn, còn cải chua thì xả nước cho thật sạch, rồi đem cắt khúc sao cho vừa ăn, không quá to cũng đừng quá nhỏ. Bạn nên cắt theo thân của cá, kích thước hợp lí nhất là khúc cá có độ dày khoảng 5 cm, để cho việc thấm các gia vị vào thịt cá tốt hơn.",
+                                "Bước 3:Kế đến, bạn bào hành lá ra thành từ sợi nhỏ, còn hành tím thì cần bóc sạch vỏ và thái đôi, ớt trái thì giữ nguyên sau khi rửa sạch.",
+                                "Bước 4:Tiếp theo, bạn cho cá, cải chua và hành tím vào chung một tô lớn. Thêm nước màu và 2 gói Knorr Gia vị hoàn chỉnh Cá Kho vào rồi đảo nhẹ khoảng 15 phút cho gia vị thấm đều, làm như thế sẽ khiến món cá kho sẽ ngon hơn.",
+                                "Bước 5:Kế tiếp, bạn cho 2 thìa dầu ăn vào chảo và làm nóng. Sau đó cho cá và cải chua đã ướp vào chiên sơ, chú ý không nên để lửa quá lớn vì nó sẽ khiến món ăn không được ngon. Để có được món cá trắm kho dưa cải ngon đúng điệu thì trong suốt quá trình cá đang được chiên, bạn cần chú ý để lửa nhỏ, tránh trường hợp lửa quá lớn khiến cá bị cháy khét, mất ngon. Đến khi bạn thấy cá săn lại thì hãy từ từ cho nước vào sao cho vừa xăm xắp mặt cá.",
+                                "Bước 6:Sau đó, bạn có thể thêm ớt trái đã rửa sạch vào kho chung để món ăn đậm vị hơn. Tốt nhất bạn nên thái ớt nhuyễn. Nếu thái ớt nhuyễn thì nên chú ý đến lượng ớt vào hoặc bạn có thể để ớt nguyên trái vào kho chung với cá tùy sở thích ăn uống của mỗi vùng miền mà bạn chọn hình thức phù hợp. Tùy khẩu phần ăn của mỗi thành viên trong gia đình mà bạn nên có một lượng ớt nhất định để tránh trường hợp quá cay khiến món ăn không còn ngon nữa.",
+                                "Bước 7:Cuối cùng, bạn nên để món cá này kho khoảng 20 phút cho đến khi thấy nước sệt lại thì hãy tắt bếp, rắc hành lá và tiêu lên thì bạn đã có một món cá trắm kho dưa cải cực ngon rồi. Hi vọng bài viết này sẽ giúp các chị em nội trợ có thể chế biến một món cá trắm kho dưa cải thơm ngon, đậm đà. Đồng thời cũng sẽ giúp bạn có thêm một bí quyết nấu ăn ngon với món cá trắm này. Hãy trổ trài nấu ăn của mình ngay thôi nào!"
+                            ],
+                            "price":50000,
+                            "Prepare":"20 minutes",
+                            "Cook":"25 minutes"
+                        },
+
+                        {
+                            "id":"5",
+                            "name":"THỊT BÒ KHO TÀU",
+                            "img":"./img/thịt_bò_kho_tàu.jpeg",
+                            "describe":"Bữa cơm nhà bạn sẽ ngon hơn với món thịt bò kho tàu thơm nức mũi. Đây là một món kho ngon thích hợp cho thực đơn hàng ngày của bạn đấy.",
+                            "ingredient":["500g nạm bò",
+                                "5 quả trứng vịt",
+                                "Ớt: 1 quả",
+                                "Hành lá: 3 nhánh",
+                                "Sả: 2 cây",
+                                "Dừa nước tươi: 1 trái",
+                                "Dầu ăn: 2 thìa",
+                                "Knorr Gia vị Hoàn Chỉnh - Thịt Kho: 1"
+                            ],
+                            "making":["Bước 1:Đầu tiên, chúng ta đổ trứng vịt vô nồi nước sạch để luộc chín, sau đó bỏ ra, cho vô âu nước lạnh rồi theo lần lượt bóc hết vỏ, để vào tô.",
+                                "Bước 2:Lúc chọn mua thịt bò, chúng ta nhớ nên chọn thịt còn tươi ngon, có sắc đỏ tự nhiên, có mỡ vàng, đặc biệt, thịt bò vẫn còn ấm, nếu lạnh thì là thịt bò đã bỏ vào tủ lạnh đặt từ hôm trước. Sau khi mua về, bạn hãy rửa sạch thịt bò qua nước muối pha loãng, để cho khô ráo. Có một mẹo nhỏ khi làm sạch thịt bò là chúng ta nên dùng rượu trắng hòa với 1 ít gừng rồi xát lên thịt rồi rửa sạch lại bằng nước lạnh, chần qua nước sôi. Với cách làm này sẽ giúp khử mùi hôi đặc trưng của thịt bò, giúp thịt bò thơm ngon hấp dẫn hơn. Sau khi đã khử xong mùi hôi của thịt bò chúng ta bắt đầu cắt thịt bò thành những miếng nhỏ. Tốt nhất nên cắt thịt thành hình vuông hoặc chữ nhật.",
+                                "Bước 3:Tỏi khô lột vỏ ngoài, đập dập rồi bằm cho nhỏ. Ớt cũng mang rửa cho thật sạch, quăng phần cuống, cắt nhỏ. Sả bóc bỏ bớt vỏ già, cắt lấy phần củ trắng và rửa sạch sẽ, sau đó cắt mỏng, nhỏ. Dừa đục lấy nước và cho vào bát.",
+                                "Bước 4:Ướp thịt bò là công đoạn quan trọng nhất, món thịt bò kho tàu có ngon hay không phụ thuộc rất nhiều vào bước này. Để ướp thịt bò ngon, hãy để thịt bò vào một bát lớn, tẩm ướp cùng sả băm, một nửa phần tỏi khô băm và 1 gói Knorr Gia vị Hoàn Chỉnh - Thịt Kho, sau đó để 15 phút cho thịt bò thấm đều và đậm đà gia vị.",
+                                "Bước 5:Để chảo lên trên bếp đun cho nóng, cho vào chảo một thìa dầu ăn rồi đổ tỏi khô bằm vào chiên cho thơm. Cho thêm tiếp thịt bò đã tẩm ướp vô xào. Đun với lửa nhỏ đến khi thịt bò sôi thì đổ nước dừa vô và đun tiếp tục.",
+                                "Bước 6:Sau khi đun khoảng 30 phút, thịt đã khá mềm và chín, bạn cho trứng vào kho thêm 20 phút để trứng thấm gia vị, tắt bếp. Để cho tăng mùi vị đậm đà cũng như hương thơm không thể chối từ của món bò kho tàu, chúng ta cũng có thể thêm một ít húng lìu vào trộn cho đều cùng với thịt bò trước lúc tắt lửa.",
+                                "Bước 7:Sau đó, bạn múc thịt và trứng ra đĩa ăn với cơm trắng là tuyệt vời nhất."
+                            ],
+                            "price":100000,
+                            "Prepare":"20 minutes",
+                            "Cook":"40 minutes"
+                        },
+
+                        {
+                            "id":"6",
+                            "name":"TÔM THỊT KHO MĂNG",
+                            "img":"./img/Tôm_thịt_kho_măng.jpeg",
+                            "describe":"Bữa cơm gia đình sẽ trọn vẹn hơn với tôm thịt kho măng. Món kho ngon này cùng với vị giòn của măng khiến gia đình ai cũng ăn ngon.",
+                            "ingredient":["Tôm: 200g",
+                                "Thịt ba rọi: 200g",
+                                "Măng: 150g",
+                                "Củ hành tím, hành lá, tỏi, tiêu",
+                                "Dầu ăn",
+                                "Knorr Gia Vị Hoàn Chỉnh - Thịt Kho"
+                            ],
+                            "making":["Bước 1:Bạn nên chọn tôm sú để món ăn ngon hơn. Sau khi mua về, cho tôm vào rửa sạch trong nước, bóc bỏ vỏ tôm, và nhớ bỏ chỉ trên sống lưng con tôm.",
+                                "Bước 2:Thịt ba chỉ rửa sạch thái miếng vuông hình quân cờ vừa ăn, nếu bạn không thích thì cắt lát mỏng tùy ý bạn nhưng đừng thái quá mỏng là được.",
+                                "Bước 3:Cho tôm, thịt vào bát, ướp với Knorr Gia Vị Hoàn Chỉnh - Thịt Kho, 1/2 thìa tiêu.",
+                                "Bước 4:Măng mua về dùng kéo cắt bỏ phần già, xơ, lột bỏ vỏ ngứa bên ngoài, rồi cắt thành dạng que. Sau đó bạn dùng 1 cái nồi cho nước vào đặt lên bếp đun sôi rồi cho măng vào luộc tối đa khoảng 5 phút để măng ra bớt vị chua cũng như khử độc tính của măng, trong khi luộc nhớ phải luôn luôn mở vung. Luộc xong bạn đổ măng ra rổ, rửa lại bằng nước lạnh rồi để ráo. Món ăn này sẽ tuyệt vời hơn nếu chúng ta chọn được những củ măng le nhưng loại măng này chỉ mua ở những vùng miền núi, ở thành phố thì thường rất hiếm.",
+                                "Bước 5:Hành tím làm sạch rồi băm nhỏ, hành lá rửa sạch cắt khúc, tỏi lột vỏ rồi băm nhuyễn.",
+                                "Bước 6:Lấy một cái chảo đặt lên bếp cho một ít dầu ăn vào đun nóng rồi cho nốt chỗ hành tím và tỏi vào phi thơm. Sau đó trút thịt và tôm vào đảo đều cho thịt săn lại.",
+                                "Bước 7:Kho như vậy khoảng 10 – 15 phút, quan sát khi nào thấy thịt và tôm săn lại bạn thêm nước xâm xấp mặt thịt, vặn lửa ở mức to hơn cho nhanh sôi, chú ý canh hớt bọt nếu có. Sau đó giảm lửa ở mức thấp hơn và tiếp tục đun. Đợi khi nào nước cạn còn 1/2 thì bạn hãy cho măng vào, nêm nếm lại cho vừa ăn, dùng đũa đảo đều tay.",
+                                "Bước 8:Bạn lưu ý để lửa nhỏ đun tới khi nước gần cạn hết nước, gia vị thấm đều thì hãy tắt bếp, rắc hành lá cắt khúc và tiêu (tùy thích), đảo đều. Sau đó dọn ra đĩa và ăn với cơm trắng là ngon nhất."
+                            ],
+                            "price":75000,
+                            "Prepare":"15 minutes",
+                            "Cook":"30 minutes"
                         }
                     ]
                 },
                 {
+                    "title": "Món Chiên",
                     "id": "2",
-                    "titleChild": "Ẩm thực nước ngoài",
-                    "listDish": [
+                    "img": "./img/Món Chiên.jpg",
+                    "menu": [
                         {
                             "id": "1",
-                            "name": "Stove Pot Roast With Mashed Potatoes",
-                            "describe": "682 calo; chất đạm 31,2g; cacbohydrat 62,6g; chất béo 34,6g; cholesterol 120,3mg; natri 756,7mg",
+                            "name": "CÁ THÁ LÁC CHIÊN - MÓN NGON DỄ LÀM",
+                            "img": "./img/cá_thá_lác_chiên.jpg",
+                            "describe": "Chỉ với 15 phút bạn sẽ có món Cá Thác Lác Chiên giòn tan nhai giòn rụm rụm!",
                             "ingredient": [
-                                " (3 pound) thịt bò nướng",
-                                " muối và tiêu đen xay để nếm",
-                                "4 lon nước dùng bò cô đặc (chẳng hạn như Campbell's®)",
-                                "1 ly nước",
-                                " 1 củ hành trắng cắt miếng lớn",
-                                "5 tép tỏi",
-                                "1 gói (16 ounce) cà rốt, gọt vỏ",
-                                "1 nhánh hương thảo tươi",
-                                "Khoai tây nghiền:5 pound khoai tây Yukon Gold, gọt vỏ và cắt hạt 1 (12 ounce) có thể là sữa bay hơi, hoặc khi cần thiết",
-                                "½ cốc bơ",
-                                "muối để nếm"
+                                "400g cá thác lác nạo sẵn",
+                                "1 củ hành tím, bằm nhuyễn",
+                                "2 nhánh thì là, cắt nhỏ",
+                                "½ muỗng cà phê Hạt nêm Knorr từ Thịt Thăn, Xương Ống & Tủy - Bổ sung Vitamin A",
+                                "⅛ muỗng cà phê tiêu xay (0.2g)",
+                                "⅔ chén canh dầu ăn (75g)"
                             ],
                             "making": [
-                                "Bước 1:Nêm món thịt nướng với muối và tiêu đen; nướng trong chảo lớn, sâu lòng hoặc lò nướng kiểu Hà Lan ở lửa vừa cho đến khi chín vàng, khoảng 10 phút mỗi mặt.",
-                                "Bước 2: Đổ nước luộc thịt bò và nước vào chảo rang. Xếp hành và tỏi băm xung quanh miếng thịt. Trải cà rốt rang trên đỉnh và đặt nhánh hương thảo trên đỉnh cà rốt. Vặn lửa ở mức vừa phải và đun nhỏ lửa cho đến khi chín mềm, khoảng 6 giờ",
-                                "Bước 3:Cho khoai tây vào nồi lớn đun sôi; giảm lửa nhỏ và đun cho đến khi mềm, khoảng 30 phút. Xả nước. Nghiền khoai tây với bơ và một nửa lượng sữa đã bốc hơi cho đến khi mịn; từ từ nghiền sữa bay hơi còn lại vào khoai tây để đạt được độ đặc mong muốn. Mùa muối.",
-                                "Bước 4:Lấy 1 hoặc 2 tép tỏi ra khỏi chảo và băm nhuyễn các tép tỏi trên lớp rang; phục vụ với khoai tây nghiền."
+                                "Bước 1: Đầu tiên, chúng ta cần làm sạch những nguyên liệu. Đối với cá thác lác, để chiên lên được ngon hơn thì bạn cần chọn cá thật tươi thì thịt mới ngon ngọt. Để chọn cá tươi thì bạn cần lưu ý: cá thác lác tươi ngon thường sẽ rất trong, màu trắng xen kẽ hồng nhạt… Khi nạo ra cá bóng đẹp và không có mùi hôi. Sau đó, bạn rửa cá với nước muối để khử bớt mùi tanh và đem nạo ra lấy thịt cá. Hành tím thì bóc vỏ thật sạch và đem rửa cùng với thìa là. Sau đó để các nguyên liệu riêng ra với nhau để cho ráo nước.",
+                                "Bước 2: Bước tiếp theo chúng ta cần thực hiện đó là lấy hành tím đã rửa sạch và dùng dao và thớt bằm nhuyễn rồi cho vào một chén nhỏ. Còn thìa là thì đem cắt thành từng khúc nhỏ.",
+                                "Bước 3: Sau đó, bạn lấy cá đã được rửa sạch và đã ráo nước đó đem ướp chung với hạt nêm Knorr từ Thịt Thăn, Xương Ống & Tủy - Bổ sung Vitamin A cùng thìa là và hành tím đã băm nhuyễn.",
+                                "Bước 4: Kế tiếp, bạn cần lưu ý là quết cho cá thấm đều với gia vị thì khi chiên lên mới ngon.",
+                                "Bước 5: Sau đó, trước khi bỏ vào chiên, bạn cần cán mỏng và tạo hình để cho dễ chiên. Tùy vào sở thích của mỗi người mà còn có thể thành nhiều hình khác nhau, như miếng hình vuông, hình chữ nhật, hình tròn, hoặc thậm chí hình tam giác nếu bạn thích sự khác biệt, tạo điểm nhấn cho món ăn chẳng hạn.",
+                                "Bước 6: Bạn dùng một chiếc chảo chống dính, sau đó bật bếp lên và cho dầu ăn vào chảo, đợi đến khi dầu trong chảo nóng lên, để sôi là được. Rồi kế tiếp bỏ cá đã ướp và tạo hình sẵn lúc nãy vào và bắt đầu chiên. Lưu ý, nhớ trở đều từng miếng cá cho cá chín đều, đặc biệt để lửa vừa đủ không để quá lớn tránh trường hợp mau cạn dầu và cá dễ bị khét. Và cứ tiếp tục chiên cho đến khi bạn thấy cá chín vàng đều là được. Đây chính là cách làm cá ngon mà không phải nhiều người biết.",
+                                "Bước 7: Cuối cùng là tắt bếp và lấy cá ra đĩa và ăn với cơm nóng, hoặc bạn có thể trang trí cá với ít rau salad để nhìn cho hấp dẫn cũng được nếu nhà có tiệc hay có khách đến chơi."
+                            ],
+                            "price": 40000,
+                            "numberPeople": 4,
+                            "Prepare": "15 minutes",
+                            "Cook": "15 minutes"
+                        },
+                        {
+                            "id": "2",
+                            "name": "SƯỜN CHIÊN SẢ ỚT - MÓN NGON TỪ SƯỜN HEO",
+                            "img": "./img/sườn_chiên_sả_ớt.jpg",
+                            "describe": "Sườn Chiên Cay Sả Ớt là một trong những món chiên ngon cho các bà mẹ đảm đang. Cùng tận hưởng bữa cơm gia đình với món ngon này nhé.",
+                            "ingredient": [
+                                "400g sườn non",
+                                "½ muỗng cà phê Hạt nêm Knorr từ Thịt Thăn, Xương Ống & Tủy - Bổ sung Vitamin A (2.5g)",
+                                "1 muỗng canh nước mắm (15ml ~ 16g)",
+                                "¼ muỗng cà phê tiêu xay (0.5g)",
+                                "¼ chén canh dầu ăn (50g)",
+                                "7g tỏi bằm",
+                                "50g sả bằm",
+                                "5g ớt bằm"
+                            ],
+                            "making": [
+                                "Bước 1: Đầu tiên để chế biến món sườn chiên sả ớt hay các món ăn hàng ngày đơn giản thì việc đầu tiên chúng ta cần làm là làm sạch các nguyên liệu đó là sườn heo, tỏi, sả ớt. Đối với sườn sau khi được chúng ta mua ở chợ hoặc siêu thị về thì nên rửa sạch và nên rửa qua nước muối để loại bỏ những tạp chất gây hại đến sức khỏe.",
+                                "Bước 2: Bước sau đó, chúng ta sẽ dùng dao và thớt để băm tỏi, sả và ớt. Chú ý, cách tốt nhất là chúng ta nên băm ra thật nhuyễn để hương vị đậm đà hơn và để cho dễ thì bạn nên chia ra từng loại nguyên liệu để dễ thực hiện hơn. Sau khi đã băm xong thì chúng ta có thể để chung nguyên liệu đã được băm này vào một tô chung.",
+                                "Bước 3: Sau đó, để món sườn chiên sả ớt được ngon hơn thì chúng ta lấy sườn đã được rửa sạch và đã ráo nước lúc nãy đem ướp chung với tô hỗn hợp tỏi, sả bằm, ớt bằm và thêm nước mắm, hạt nêm Knorr từ Thịt Thăn, Xương Ống & Tủy - Bổ sung Vitamin A và tiêu. Tùy vào khẩu vị ăn thường ngày của mỗi người và mỗi gia đình mà chúng ta có thể cho lượng nước mắm phù hợp để tránh trường hợp quá mặn hoặc quá nhạt nhé.",
+                                "Bước 4: Bước tiếp theo chúng ta cần thực hiện đó là sử dụng một chiếc chảo chống dính rồi cho dầu ăn vào chảo. Chúng ta chỉ nên cho khoảng ¼ chén canh dầu thôi để tránh trường hợp lượng dầu quá nhiều, ăn sẽ bị ngấy, mất vị ngon của món này. Sau đó đợi đến khi dầu sôi và chiên sườn.",
+                                "Bước 5: Sau khi đã bỏ hết sườn vào chảo bạn nên chú ý để lửa vừa đủ, tránh để lửa quá lớn thì sườn sẽ dễ bị cháy mà lại không chín đều. Trong suốt quá trình chiên bạn cũng nên chú ý là trở sườn đều tay để sườn dễ dàng chín đều hơn, nếu không trở đều tay sẽ có thể xảy ra trường hợp bên chín bên sống, hoặc bên chín và bên bị cháy khét thì không nên.",
+                                "Bước 6: Cuối cùng, bạn cứ chiên và trở sườn đều tay cho đến khi thấy sườn chín là có thể tắt bếp. Bỏ ra đĩa và dùng nóng với cơm có thêm ít rau xanh, dưa leo hay cà chua, để ăn kèm tùy theo sở thích và khẩu phần ăn của mỗi người và mỗi gia đình mà dùng cho phù hợp nhé."
+                            ],
+                            "price": 40000,
+                            "numberPeople": 4,
+                            "Prepare": "15 minutes",
+                            "Cook": "15 minutes"
+                        },
+                        {
+                            "id": "3",
+                            "name": "MỰC CHIÊN XÙ VỚI SỐT THƠM",
+                            "img": "./img/mực_chiên_xù_với_sốt_thơm.jpg",
+                            "describe": "Mực Chiên Xù Xốt Thơm là món ngon gia đình phổ biến nhờ giàu dinh dưỡng và hương vị đậm đà.",
+                            "ingredient": [
+                                "4 con mực lá nhỏ (400 g) cắt khoanh",
+                                "2 củ khoai tây, cắt que, ngâm vào nước lạnh",
+                                "150g xà lách, cà chua để trang trí",
+                                "2 cái trứng gà, khuấy đều",
+                                "100g bột mì",
+                                "150g bột xù",
+                                "1 muỗng cà phê muối",
+                                "1 muỗng cà phê Hạt nêm Knorr từ Thịt Thăn, Xương Ống và Tủy - Bổ sung Vitamin A",
+                                "¼ muỗng cà phê tiêu xay",
+                                "Dầu ăn để chiên",
+                                "Nước xốt thơm",
+                                "½ trái thơm, xay nhuyễn",
+                                "½ chén dấm trắng",
+                                "1/3 chén đường cát trắng",
+                                "½ muỗng cà phê muối",
+                                "3 trái ớt hiểm, đập dập"
+                            ],
+                            "making": [
+                                "Bước 1: Đầu tiên để chế biến món mực chiên xù xốt thơm hay các món ăn khác đi chăng nữa thì việc đầu tiên chúng ta cần làm là rửa thật sạch các nguyên liệu. Khi chọn mực bạn cần chọn mực tươi, thịt còn cứng và chưa có mùi hôi, mật vẫn chưa bị dập thì khi chế biến sẽ ngon hơn.",
+                                "Bước 2: Sau đó, chúng ta sẽ làm mực, loại bỏ ruột, và túi mực, sau đó rửa sạch với nước muối và nước sạch để khử bớt mùi tanh và một số dịch nhày. Sau khi rửa xong chúng ta sẽ cắt mực thành từng khoanh vừa ăn. Có thể cắt làm ba khúc.",
+                                "Bước 3: Tiếp theo sau đó, bạn sẽ lấy 2 củ khoai tây làm sạch vỏ, rửa sạch và bắt đầu cắt que rồi ngâm vào nước lạnh",
+                                "Bước 4: Sau đó, lấy một chén nhỏ và đập 2 quả trứng gà ra và khuấy đều. Rồi tiếp tục lấy nửa trái thơm ra, rửa sạch rồi đem xay nhuyễn rồi cho vào tô để sẵn rồi sau đó chế biến.",
+                                "Bước 5: Bước tiếp theo, khoai tây sau khi ngâm nước lạnh xong thì lấy ra và luộc chín với ít muối, sau đó chiên giòn.",
+                                "Bước 6: Tiếp đến, chúng ta lấy mực đã được rửa sạch và cắt khoanh sẵn đem ướp với Hạt nêm Knorr từ Thịt Thăn, Xương Ống và Tủy - Bổ sung Vitamin A, tiêu xay. Để cho món mực thêm ngon thì chúng ta nên để khoảng 15 phút cho thấm gia vị.",
+                                "Bước 7: Sau đó lấy mực đã ướp nhúng qua bột mì, trứng gà và bột xù. Sau đó bắt chảo lên bếp, cho dầu ăn vào và chiên giòn mực.",
+                                "Bước 8: Tiếp theo, chúng ta sẽ chế biến nước xốt thơm bằng cách cho tất cả nguyên liệu vào nồi, đun sôi vài phút. Sau đó, tiếp tục cho đường vào khuấy đều cho đến khi đường tan hết là được. Tiếp đến, chúng ta nên lượt lại nước xốt cho mịn và làm sệt nước xốt với bột bắp.",
+                                "Bước 9: Cuối cùng, bạn cho mực đã chiên giòn cùng với khoai tây, xà lách, cà chua vào dĩa và ăn kèm với xốt thơm. Chúng ta thể dùng nóng món ăn này với cơm hoặc ăn với salad trộn giấm để tăng thêm sự phong phú của bữa ăn, cũng như khiến khẩu phần ăn thêm đảm bảo dinh dưỡng hơn."
+                            ],
+                            "price": 50000,
+                            "numberPeople": 4,
+                            "Prepare": "25 minutes",
+                            "cook": "15 minutes"
+                        },
+                        {
+                            "id":"4",
+                            "name":"THỊT THĂN CHIÊN VỪNG",
+                            "img":"./img/Thịt_thăn_chiên_vừng.jpeg",
+                            "describe":"Thịt thăng chiên vừng giòn là món ăn gia đình quen thuộc, đơn giản không thể bỏ qua.",
+                            "ingredient":["300g thịt thăn",
+                                "50g vừng",
+                                "Trứng gà: 2 quả",
+                                "Bột chiên giòn: 80g",
+                                "Dầu ăn: 2 muỗng canh",
+                                "Knorr Gia Vị Hoàn Chỉnh - Thịt Kho: 1 gói",
+                                "Cà chua, lá mùi ăn kèm Tương ớt, tương cà"
+                            ],
+                            "making":["Bước 1:Thịt mua về xát muối rửa sạch, để ráo. Dùng dao sắc thái thịt thành các miếng to bản có độ dày vừa phải. Lưu ý khi thái thịt, các bạn nên thái thịt ngang thớ để thịt được mềm, không bị dai cứng nhé. Sau đó, bạn đem thịt ướp cùng 1 gói Knorr Gia Vị Hoàn Chỉnh - Thịt Kho để 15 phút cho ngấm.",
+                                "Bước 2:Trứng đập ra và lấy lòng đỏ cho vào chén và đánh đều, bạn nhớ chỉ lấy lòng đỏ trứng thôi nhé. Đem hòa bột chiên giòn với nước lọc, nên để bột hơi đặc để dễ bám lên miếng thịt. Đổ vừng ra một chén nhỏ để riêng.",
+                                "Bước 3:Thịt sau khi ướp đủ thời gian, bạn lăn từng miếng thịt qua bột chiên giòn, tiếp đó lăn qua trứng và cuối cùng lăn thịt qua vừng. Bạn làm tương tự với phần thịt còn lại.",
+                                "Bước 4:Sau đó bạn thả phần thịt đã lăn bột xong vào chảo dầu đang sôi (lượng dầu cho vào phải đủ để thịt được chiên ngập trong dầu sẽ đảm bảo được độ giòn và vàng ruộm). Bạn lưu ý chiên thịt trên lửa vừa, thỉnh thoảng trở thịt nhẹ nhàng để thịt chín vàng đều cả hai mặt, nhưng các bạn nhớ lật thịt nhẹ nhàng để lớp bột chiên xù bên ngoài không bị rơi ra nhiều. Sau khi thấy thịt đã vàng ruộm, bạn gắp cẩn thận ra đĩa có lót giấy thấm dầu cho lượng dầu ăn được trôi bớt.",
+                                "Bước 5:Tiếp theo, chúng ta sẽ trang trí đĩa thịt cho thật xinh. Bạn gọt vỏ vòng tròn liên tục quanh một quả cà chua, quấn tròn vỏ rồi gài tăm cho ổn định, tạo thành một. Trang trí hoa hồng cà chua và lá mùi bên cạnh phần thịt heo tẩm vừng trên đĩa. Khi ăn bạn có thể ăn cùng với cơm trắng và chấm với tương ớt cay, tương ớt chua ngọt, hay tương cà cũng đều rất ngon."
+                            ],
+                            "price":60000,
+                            "Prepare":"30 minutes",
+                            "Cook":"30 minutes"
+                        },
+
+                        {
+                            "id":"5",
+                            "name":"GÀ CHIÊN DỪA NẠO",
+                            "img":"./img/gà_chiên_dừa_nạo.jpeg",
+                            "describe":"Gà Chiên Dừa là món ngon dễ làm từ gà với hương vị cực kỳ lạ miệng và hấp dẫn,không thể chối từ. Đây sẽ món ngon cuối tuần tuyệt vời cho gia đình bạn!",
+                            "ingredient":["500g ức gà/ đùi gà lóc xương và da",
+                                "60g bột chiên giòn",
+                                "100g bột chiên xù",
+                                "100g dừa nạo trắng",
+                                "1 muỗng café bột tỏi",
+                                "1 muỗng café hạt nêm knorr",
+                                "½muỗng cafe tiêu",
+                                "½ muỗng café muối"
+                            ],
+                            "making":["Bước 1:Đầu tiên để chế biến món ăn này, chúng ta cần lấy gà ra và bắt đầu rửa sạch, để ráo nước.",
+                                "Bước 2:Bước tiếp theo, sau khi thịt gà đã ráo nước thì bắt đầu cắt thành miếng nhỏ vừa ăn. Sau đó, chúng ta sẽ cho gà và một tô nhỏ và bắt đầu ướp gà với một ½ muỗng cà phê tiêu muối, tiêu, đường, hạt nêm Knorr. Rồi sau đó đập nắp lại để 10 phút cho gà được thấm đều các gia vị.",
+                                "Bước 3:Bước tiếp theo, chúng ta dùng một tô lớn, cho trứng gà và bột mì vào, đánh cho tan đều. Lưu ý, chúng cần phải khuấy cho bột mì tan đều, không nên để đóng cục vì khi chế biến sẽ khó khăn và không ngon. Nếu để đánh tan bột mì thì khi nấu sẽ được chín đều và miếng gà trông ngon và hấp dẫn hơn.",
+                                "Bước 4:Kế tiếp, chúng ta sẽ lấy một tô lớn khác rồi trộn bột chiên xù và dừa nạo trắng với nhau, nhớ trộn đều tay để hay nguyên liệu trộn đều với nhau.",
+                                "Bước 5:Sau đó, chúng ta sẽ lấy gà đã chuẩn bị sẵn rồi nhúng từng miếng gà vào tô trứng và bột mì. Tiếp theo, cho vào tô bột chiên xù và dừa nạo áp đều bên ngoài miếng gà cho thấm đều. Cứ lần lượt như vậy cho đến hết phần thịt gà còn lại.",
+                                "Bước 6:Tiếp theo, chúng ta sẽ đặt chảo lên bếp và cho dầu ăn vào và làm nóng dầu ăn. Sau khi dầu sôi lên thì tiếp tục cho từng miếng gà vào chiên vàng 2 mặt. Nhớ lưu ý, cho dầu nhiều đều khi chiên miếng gà ngập dầu thì sẽ ngon, vàng và giòn hơn. Hoặc nếu nhưng chúng tá không thích món ăn có quá nhiều dầu mỡ, bạn có thể xếp thịt vào khay nướng rồi nướng ở 200 độ C trong vòng 15 phút.",
+                                "Bước 7:Sau đó, dù nướng hay chiên thì món thịt gà chiên dừa của bạn vẫn đảm bảo độ giòn vàng ở lớp vỏ ngoài và phần thịt thì mềm thơm hấp dẫn.",
+                                "Bước 8:Tiếp theo, chúng ta sẽ làm xốt dừa bằng cách phi tỏi, hành, sả xay cho thơm rồi cho tương bơ đậu phộng và 1 ít nước, đun sôi hỗn hợp, nêm ít nước tương, đường, hạt nêm cho vừa ăn rồi đổ ít nước cốt dừa vào.",
+                                "Bước 9:Và cuối cùng chúng ta lấy thịt gà ra đĩa, ăn kèm với nước xốt dừa. Bạn có thể thay nước xốt dừa bằng tương ớt hoặc tương cà đều ngon."
+                            ],
+                            "price":60000,
+                            "Prepare":"10 minutes",
+                            "Cook":"30 minutes"
+                        },
+
+                        {
+                            "id":"6",
+                            "name":"PHI LÊ CÁ BASA CHIÊN SẢ",
+                            "img":"./img/phi_lê_cá_basa_chiên_sả.jpeg",
+                            "describe":"Bữa cơm nhà bạn sẽ ngon hơn với phi lê cá basa chiên sả. Vị ngọt của cá hòa quyện với hương thơm của sả .",
+                            "ingredient":["Phi lê cá basa: 300g",
+                                "Knorr Gia Vị Hoàn Chỉnh - Cá Kho: 1 gói",
+                                "Sả: 3 cây",
+                                "Bột chiên giòn: 1 bịch",
+                                "Ớt chỉ t½ trái",
+                                "Nước mắm: 2 thìa",
+                                "Tỏi: 1 củ",
+                                "Đường, bột ngọt, nước ấm",
+                                "Dầu ăn: 2 thìa",
+                                "Chanh: 1 trái"],
+                            "making":["Bước 1:Đầu tiên, chúng ta thực hiện bước sơ chế sả. Bạn đem sả đi lột bỏ vỏ già , sau đó rửa sạch, băm thật nhuyễn.",
+                                "Bước 2:Phi lê cá basa cắt miếng vuông khoảng 5 cm, sau đó đem đi rửa sạch, để ráo nước ướp cá với 1 gói Knorr Gia Vị Hoàn Chỉnh - Cá Kho và một phần sả băm khoảng 20 phút. Nếu không mua được phi lê sẵn, bạn cũng có thể mua cá về để lạng lấy phi lê.",
+                                "Bước 3:Tiếp theo, chúng ta đem cá lăn qua bột chiên giòn rồi đem chiên sơ để cá có được độ giòn nhất định.",
+                                "Bước 4:Sau đó, làm nóng nhiều dầu trong chảo, thả các miếng cá vào chiên với lửa vừa. Khi cá đã vàng một mặt thì bạn lật mặt còn lại chiên nốt là được. Sau đó bạn lấy phần sả còn lại phi thơm. Sau khi cho cá ra đĩa, rưới phần sả đã phi thơm lên phần cá đã chiên.",
+                                "Bước 5:Sau khi chiên xong, tùy theo sở thích bạn có thể ăn nóng ngay hoặc thêm công đoạn xóc mắm đường: pha 3 muỗng canh mắm với 1,5 muỗng canh đường, đun sôi trong chảo rồi cho cá vào xóc đều đến khi cạn mắm là được.",
+                                "Bước 6:Cuối cùng chúng ta làm nước mắm tỏi ớt để ăn cùng cá. Tỏi và ớt bạn băm thật nhuyễn, rồi cho ra chén, cho vào một ít bột ngọt, đường, rót nước ấm vào rồi khuấy đều. Khi đường tan hết, ta cho nước mắm vào. Bạn có thể vắt thêm chanh ít nhiều tùy theo sở thích. Vậy là đã xong.",
+                                "Bước 7:Xếp cá ra đĩa, trang trí cùng cà chua, dưa leo, xà lách cho món ăn thêm đẹp mắt bạn nhé! Món ăn này bạn nên ăn cùng cơm, rau sống, gặp một miếng cá, một miếng rau, chấm vào nước mắm chua chua ngọt ngọt, không có từ ngữ nào có thể diễn tả nổi sự trọn vẹn của món ăn này."
+                            ],
+                            "price":80000,
+                            "Prepare":"15 minutes",
+                            "Cook":"30 minutes"
+                        }
+                    ]
+                },
+                {
+                    "title": "Món xào",
+                    "id": "3",
+                    "img": "./img/Món Xào.jpg",
+                    "menu": [
+                        {
+                            "id": "1",
+                            "name": "ẾCH XÀO GIÒN VỊ CÀ RI CHO CUỐI TUẦN",
+                            "img": "./img/ếch_xào_giòn_vị_cà_ri.jpg",
+                            "describe": "Bạn đã thử qua món qua món Ếch Xào Vị Cà Ri Thơm Cay Nồng này chưa? Những món xào đơn giản này khiến cho bữa cơm của bạn thêm thơm ngon hơn đó!",
+                            "ingredient": [
+                                "ếch 200g",
+                                "bột mỳ 10g",
+                                "thơm 50g",
+                                "cà chua 100g",
+                                "hành tây 100g",
+                                "cà ri bột 5g"
+                            ],
+                            "making": [
+                                "Bước 1: Bước đầu tiên để thực hiện chế biến món ăn này thì chúng ta cần chuẩn bị đầy đủ các nguyên liệu và cần rửa thật sạch. Đối với ếch, để chế biến cho ngon thì tốt nhất bạn nên chặt đầu và lột sạch da. Sau đó tiếp tục loại bỏ luôn hết sạch nội tạng và rửa sạch với nước để khử bớt mùi tanh. Sau đó nên bỏ vào rổ để cho thịt ếch dễ ráo.",
+                                "Bước 2: Tiếp theo, chúng ta cũng nên làm sạch các gia vị còn lại. Cà chua, hành tây, ngò rí, thơm cũng nên rửa thật sạch để chế biến món ăn hợp vệ sinh và an toàn thực phẩm hơn. Sau khi rửa sạch thì cũng nên cho vào rổ và để ráo nước.",
+                                "Bước 3: Bước kế tiếp, chúng ta lấy thịt ếch đã rửa sạch và ráo nước sau đó đem cắt miếng vừa ăn. Xong sau đó cho ếch và một tô lớn và bắt đầu ướp ếch với hạt nêm Knorr Thịt thăn, Xương ống & Tủy - Bổ sung Vitamin A và cà ri. Rồi đậy nắp, để khoảng 5 phút, sau đó tẩm với 1 chút bột mỳ.",
+                                "Bước 4: Tiếp tục, chúng ta nên lấy thơm cắt miếng, cà chua, hành tây bổ cau và bỏ vào tô khác, có thể để chung cà chua, thơm và hành tây chung cũng được.",
+                                "Bước 5: Bước tiếp theo, chúng ta cần thực hiện là bắt chảo lên bếp và cho dầu ăn vào làm nóng dầu ăn. Sau đó, tiếp tục cho ếch đã ướp gia vị vào chiên cho vàng. Sau đó, vớt ra và để riêng vào một đĩa.",
+                                "Bước 6: Tiếp theo, cho hỗn hợp cà chua, hành tây, thơm vào xào chín rồi nêm với hạt nêm Knorr Thịt thăn, Xương ống & Tủy - Bổ sung Vitamin A. Sau đó cho ếch đã chín vàng vào và tiếp tục đảo đều.",
+                                "Bước 7: Bước cuối cùng, chúng ta cho thêm ngò rí đã rửa sạch và tiêu. Tùy theo khẩu vị ăn của mỗi nhà và mỗi người mà bạn có thể nêm nếm thêm sao cho phù hợp với khẩu vị của mình.",
+                                "Bước 8: Và cuối cùng, sau khi đã nêm vừa ăn thì chúng ta bắt đầu tắt bếp, nhắc xuống và dọn ra đĩa rồi ăn kèm với cơm nóng. Để có thêm hương vị thì khi nêm bạn nên cho nhạt một xíu để sau đó ăn kèm với nước mắm tỏi ớt chua ngọt sẽ hấp dẫn hơn."
+                            ],
+                            "price": 40000,
+                            "numberPeople": 4,
+                            "Prepare": "10 minutes",
+                            "Cook": "15 minutes"
+                        },
+                        {
+                            "id": "2",
+                            "name": "BÍ ĐAO XÀO TÔM THỊT",
+                            "img": "./img/bí_đao_xào_tôm_thịt.jpg",
+                            "describe": "Sổ thực đơn món ngon hàng ngày của bạn đã có món Bí Đao Xào Tôm Thịt này chưa? Nếu chưa thì hãy click liền đọc ngay bí kíp làm món xào ngon này nhé!",
+                            "ingredient": [
+                                "8 con tôm",
+                                "50g thịt heo",
+                                "200g bí đao",
+                                "1 nhánh hành lá",
+                                "1 thìa cà phê tỏi băm",
+                                "2 thìa cà phê Hạt nêm Knorr từ Nấm và Rong biển",
+                                "1 thìa cà phê nước mắm chấm Knorr",
+                                "1 thìa cà phê đường",
+                                "½ thìa cà phê tiêu xay",
+                                "1 thìa súp dầu ăn"
+                            ],
+                            "making": [
+                                "Bước 1: Để chế biến được bất cứ món bí đao xào tôm thịt này thì việc đầu tiên là chúng ta cần phải chuẩn bị các nguyên liệu sẵn sàng và sạch sẽ. Đầu tiên chúng ta cần rửa sạch thịt và tôm. Riêng tôm thì nên bỏ đầu và bóc sạch bỏ và để lại đuôi.",
+                                "Bước 2: Bước kế tiếp, chúng ta đem ướp tôm với Hạt nêm Knorr từ Nấm và Rong biển với nước mắm chấm Knorr, thêm với 1 thìa đường và ít dầu ăn. Sau đó để khoảng 15 phút để thấm gia vị.",
+                                "Bước 3: Sau đó, bạn tiếp tục xử lý nguyên liệu chính là bí đao. Đối với bí đao tốt nhất chúng ta nên chọn quả non, vết cắt còn mới hoặc nhiều lông tơ. Sau đó gọt sạch vỏ và rửa sạch, cắt sợi, chần sơ qua nước sôi, vớt ra để ráo.",
+                                "Bước 4: Làm nóng dầu, phi thơm đầu Hành và tỏi băm, cho thịt vào đảo nhanh tay. thịt tái cho Tôm vào xào, cho tiếp Bí đao vào, nêm thêm Hạt nêm cho vừa ăn. Sau cùng cho Hành lá cắt khúc vào, nhắc xuống.",
+                                "Bước 5: Kế tiếp, bạn rửa sạch hành lá. Đối với hành lá thì bạn cần lưu ý là băm nhỏ đầu hành để sau đó dễ phi và sẽ thơm hơn. Còn phần lá thì cắt khúc để khi chín thì trang trí thêm cho món ăn thơm ngon và bắt mắt. Sau đó, chúng ta bắt chảo lên bếp và làm nóng dầu. Rồi sao đó, phi thơm đầu hành và tỏi băm. Tiếp theo, cho thịt vào đảo nhanh tay. Sau khi đảo xong nếu thấy thịt tái lại thì bắt đầu cho tôm vào xào và cho tiếp Bí đao vào xào chung luôn cũng được. Chú ý khi xào không nên để lửa lớn, để vừa lửa để món ăn chín từ từ.",
+                                "Bước 6: Cuối cùng, chúng ta xào khoảng 5 - 10 phút thì bắt đầu nêm thêm Hạt nêm cho vừa ăn. Sau cùng cho hành lá cắt khúc vào và tắt bếp. Dọn ra đĩa và dùng nóng với cơm, có thể kết hợp thêm chút nước mắm tỏi ớt chua ngọt để chấm cũng khá hấp dẫn. Tùy theo, sở thích ăn uống và khẩu vị ăn của mỗi người và mỗi gia đình mà bạn nên chọn thêm món ăn cùng cho phù hợp nhé."
+                            ],
+                            "price": 30000,
+                            "numberPeople": 2,
+                            "Prepare": "15 minutes",
+                            "Cook": "10 minutes"
+                        },
+                        {
+                            "id": "3",
+                            "name": "MỰC XÀO HÀNH TÂY TỎI TÂY",
+                            "img": "./img/mực_xào_hành_tây_tỏi_tây.jpg",
+                            "describe": "Trổ tài làm món mực xào hành tây, tỏi tây đơn giản này cho gia đình. Đây là món xào ngon dễ làm kết hợp với vị giòn của hành tỏi tây.",
+                            "ingredient": [
+                                "300g mực tươi",
+                                "1 củ hành tây",
+                                "100g tỏi tây",
+                                "1 chén rượu trắng, gừng, tỏi ta",
+                                "1 gói Knorr Gia Vị Hoàn Chỉnh - Thịt Kho",
+                                "Hạt tiêu, dầu ăn"
+                            ],
+                            "making": [
+                                "Bước 1: Bí quyết tiên quyết để làm nên món mực xào hành tỏi thơm ngon là bạn phải chọn được nguồn nguyên liệu mực thật sự tươi ngon nhé. Cách chọn mực tươi ngon nhất để xào là bạn hãy lấy những con mực nang to con, dày mình, trắng trong, thịt chắc, không bị nát, lớp màng nâu phải bao quanh đều toàn thân. Mực tươi mua về làm sạch, thái miếng cho vào bát bóp với gừng và rượu cho hết mùi tanh. Nếu thích bạn có thể dùng kéo cắt thành hình bông hoa hoặc bạn có thể khứa vảy rồng.",
+                                "Bước 2: Hành tây bỏ vỏ đem thái mỏng, riêng phần củ tỏi tây bạn hãy để riêng và thái lát nhé.",
+                                "Bước 3: Để mực khi xào được giòn ngon và không bị dai thì chúng ta đem ngâm mực với nước muối pha loãng khoảng 5 phút. Tiếp đó, cho mực trần qua nước sôi ( bước này sẽ giúp mực khi xào được trắng trẻo, không bị ra nước, cũng như để loại bỏ chất bẩn và bớt tanh).",
+                                "Bước 4: Mực sau khi chần thì đem ướp với Knorr Gia Vị Hoàn Chỉnh - Thịt Kho cho ngấm đều.",
+                                "Bước 5: Tiếp đến là bước xào sơ mực, đầu tiên, bạn đặt chảo lên bếp, cho vào chảo 1 muỗng dầu ăn, đợi dầu sôi thì cho mực vào, xào cho mực vừa chín tới. Bạn lưu ý xào trong lửa lớn để mực giòn, không bị dai. Xào xong bạn để mực tạm vào một chén.",
+                                "Bước 6: Tiếp đó, đặt chảo lên bếp, cho vào đó 1 muỗng dầu ăn vào phi cho dầu nóng lên, sau đó cho phần củ tỏi tây vào phi thơm, sau đó trút phần hành tây, đã cắt khúc vào, đảo liên tục cho đến khi phần rau này chín tái thì trút phần mực xào vào, đảo đều khoảng 1 phút, bạn có thể nêm thêm Knorr Gia Vị Hoàn Chỉnh Thịt Kho lại lần nữa cho vừa ăn nếu cần.",
+                                "Bước 7: Cuối cùng, khi món mực xào hành tỏi tây đã chín, bạn tắt bếp cho ra đĩa rắc hạt tiêu cho dậy mùi, món này ăn nóng cùng với cơm trắng là chuẩn nhất đấy."
                             ],
                             "price": 100000,
                             "numberPeople": 4,
-                            "Prepare": "30 minute",
-                            "Cook": "6 hour"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Market",
-            "id": "2",
-            "food": [
-                {
-                    "titleChild": "Meat",
-                    "id": "1",
-                    "listFood": [
-                        {
-                            "id": "1",
-                            "name": "Thịt heo Mỹ",
-                            "quantitative": "500g",
-                            "price": 100000
+                            "Prepare": "30 minutes",
+                            "Cook": "45 minutes"
                         },
                         {
-                            "id": "2",
-                            "name": "Thịt bò Mỹ",
-                            "quantitative": "500g",
-                            "price": 45000
+                            "id":"4",
+                            "name":"TÔM XÀO THẬP CẨM",
+                            "img":"./img/tôm_xào_thập_cẩm.jpeg",
+                            "describe":"Tôm xào thập cẩm với vị ngọt của tôm và tươi ngon của rau củ hòa quyện vào nhau sẽ là món khoái khẩu nằm trong các món xào ngon dễ làm.",
+                            "ingredient":["100g tôm nõn",
+                                "1 bộ lòng mề vịt",
+                                "Củ cải khô, cà rốt, hoa thiên lý, giá đỗ" ,
+                                "Dầu ăn, hành khô, hành hoa" ,
+                                "1 gói Knorr Gia Vị Hoàn Chỉnh - Thịt Kho"
+                            ],
+                            "making":["Bước 1:Bạn cho tôm vào rửa sạch trong nước, sau đó luộc tôm chín tới, rồi vớt ra. Tiếp theo, bạn bóc bỏ vỏ tôm, và nhớ bỏ chỉ trên sống lưng con tôm. Bạn cắt chia đôi phần thịt con tôm, nhớ đừng để tôm đứt hẳn, sau đó bạn ướp tôm với 1/2 gói Knorr Gia Vị Hoàn Chỉnh Thịt Kho.",
+                                "Bước 2:Lòng mề vịt khi mua về bạn đem rửa sạch với muối, trần qua nước sôi để khử bớt mùi tanh hôi từ vịt, thái nhỏ ướp với 1/2 Knorr Gia Vị Hoàn Chỉnh - Thịt Kho còn lại.",
+                                "Bước 3:Củ cải khô bạn đem ngâm với nước đun sôi cho mềm.",
+                                "Bước 4:Bạn gọt vỏ cà rốt, rồi rửa sạch qua nước lã, sau đó thái hình vảy ốc.",
+                                "Bước 5:Hoa thiên lý và giá đỗ đem rửa sạch với nước và muối.",
+                                "Bước 6:Với hành tây, bạn bóc bỏ vỏ, rồi cắt thành hình miếng cau. Tỏi thì lột vỏ rồi đập dập.",
+                                "Bước 7:Bạn đặt chảo lên bếp rồi bật bếp, khi chảo đủ nóng thì cho dầu ăn vào, đun cho dầu ăn thật già, rồi đổ tôm vào chảo, xào cho đến khi tôm chín, có màu vàng, thơm là được. Bạn vớt tôm ra đĩa riêng.",
+                                "Bước 8:Tiếp tục sử dụng chảo đó, cho thêm dầu ăn vào xào tiếp lòng mề vịt, khi đã chín tới thì đổ ra đĩa.",
+                                "Bước 9:Tiếp theo đó bạn cho dầu ăn vào chảo, đun cho dầu nóng, sau đó cho hành, tỏi vào phi thật thơm, rồi cho củ cải vào xào, kế tiếp là bạn cho cà rốt, và giá đỗ vào. Bạn cho lửa to rồi đảo đều tay. Bạn có thể cho thêm một chút hạt nêm Knorr cho vừa khẩu vị.",
+                                "Bước 10:Bạn cho tôm cùng với lòng mề vịt vào đảo cùng với rau xào. Đảo đều tay cho tới khi tôm, lòng về vịt cùng các gia vị đã chín và ngấm đều gia vị là được, bạn nhớ không nên xào rau chín kĩ quá, vì rau sẽ bị nhừ hoặc nát. Bạn lót một vài cọng rau thơm ra đĩa, rồi xúc tôm cùng rau gia vị ra đĩa, đặt thêm lên trên một ít rau mùi cho đĩa tôm thêm đẹp mắt."
+                            ],
+                            "price":80000,
+                            "Prepare":"30 minutes",
+                            "Cook":"15 minutes"
+                        },
+
+                        {
+                            "id":"5",
+                            "name":"MÌ XÀO THẬP CẨM",
+                            "img":"./img/mì_xào_thập_cẩm.jpeg",
+                            "describe":"Vào bếp để làm món mì xào thập cẩm ngon lành cho cả gia đình bạn. Đây là món ngon gia đình, nhanh chóng, với nguyên liệu đơn giản.",
+                            "ingredient":["200g mì xào",
+                                "150g thịt nạc vai",
+                                "100g rau cải ngọt",
+                                "Nấm hương: 50g",
+                                "Cà rốt: 1 củ",
+                                "Tỏi đập nhỏ: 3-4 tép",
+                                "Knorr Gia Vị Hoàn Chỉnh - Thịt Kho: 1 gói",
+                                "Hạt nêm Knorr từ Thịt thăn, Xương ống & Tủy bổ sung Vitamin A"
+                            ],
+                            "making":["Bước 1:Thịt nạc vai mua về bạn trụng sơ qua nước sôi để tẩy đi mùi thịt rồi rửa lại vài lần với nước lạnh cho thật sạch. Sau đó bạn dùng dao sạch thái thịt thành những lát mỏng vừa ăn. Cho thịt vào tô, đem ướp với Knorr Gia Vị Hoàn Chỉnh - Thịt Kho.",
+                                "Bước 2:Dùng nước đun sôi trụng mì, sau đó vớt ra cho vào nước lạnh để sợi mì săn lại.",
+                                "Bước 3:Rau cải bạn đem đi cắt bỏ phần gốc không ăn được, nhặt sạch sẽ những lá bị hư hoặc sâu; cà rốt đem gọt vỏ, nấm hương cắt bỏ những phần không ăn được rồi sau đó rửa thật sạch tất cả vòi nước. Bạn nên ngâm cải vào thau nước muối loãng khoảng 10 phút rồi vớt ra để ở rổ cho ráo. Thái rau cải thành các khúc ngắn vừa ăn chừng 1 ngón tay út, cà rốt và nấm hương thì thái vừa ăn là được.",
+                                "Bước 4:Tiếp theo, bạn bắt chảo lên bếp và chờ cho chảo nóng, cho khoảng 3 thìa dầu ăn vào phi tỏi cho thật thơm. Bước kế tiếp, bạn cho hết thịt nạc heo đã ướp vào đảo đều vài cái cho thịt chín và săn lại thì cho hết rau cải vào. Sau khi thịt và rau đã chín, bạn đổ ra dĩa.",
+                                "Bước 5:Tiếp đến là mì, cho mì xào vào chảo xào vừa độ chín sau đó cho rau và thịt vào đảo đều, cho nấm hương cà rốt và một ít hạt nêm Knorr vào cho vừa độ ăn.",
+                                "Bước 6:Khi ăn bạn đổ mì ra dĩa và cho thêm một ít xì dầu. Có thể xếp xà lách, dưa leo và cà chua thái lát xung quanh trang trí cho món ăn thêm sinh động. Nếu thích ăn cay, bạn có thể ăn cùng tương ớt, đảm bảo sẽ ngon quên lối về."
+                            ],
+                            "price":50000,
+                            "Prepare":"15 minutes",
+                            "Cook":"30 minutes"
+                        },
+
+                        {
+                            "id":"6",
+                            "name":"BÔNG CẢI XÀO TIÊU XANH",
+                            "img":"./img/Bông_cải_xào_tiêu_xanh.jpeg",
+                            "describe":"Nếu bạn đang tìm món xào ngon thì Bông Cảo Xào Tiêu Xanh là món ngon hàng ngày lí tưởng.",
+                            "ingredient":["200g bông cải xanh",
+                                "100g nấm rơm",
+                                "100g bắp non",
+                                "50g cần ta",
+                                "2 chùm tiêu xanh",
+                                "10g ớt sừng",
+                                "10g tỏi băm",
+                                "2 thìa cà phê hạt nêm Knorr từ Nấm và Rong biển",
+                                "Dầu ăn"
+                            ],
+                            "making":["Bước 1:Đối với bông cải xanh, bạn dùng dao bào loại bỏ phần da cứng bên ngoài thân sau đó cắt (cắt xéo để gia vị thấm vào dễ hơn nhé) cả bông và thân thành nhiều miếng vừa ăn rồi rửa sạch. Sau đó ngâm sơ bông cải xanh với nước muối trong 4 phút để loại bỏ bụi bẩn bám trên bề mặt bông cải. Sau đó vớt bông cải ra rồi rửa sạch lại với nước.",
+                                "Bước 2:Đối với nấm rơm, sau khi đã cắt bỏ phần dơ ở gốc, cho vào nước muối loãng ngâm 5 phút và xả lại 2 lần để loại bỏ hết các độc tố. Sau khi đã ráo nước thì chẻ đôi ra để vừa ăn. Bắp non, cần ta, tiêu xanh và ớt sừng thì hãy rửa sạch với nước rồi để ráo. Bắp non cắt đôi còn cần ta cắt khúc khoảng 4cm, tỏi sau khi rửa thì băm nhuyễn.",
+                                "Bước 3:Bắt chảo lên bếp, để lửa vừa phải rồi cho 1 thìa súp dầu ăn vào khi chảo đã nóng lên. Khi dầu bắt đầu sôi lên thì cho tỏi đã băm nhuyễn vào rồi lần lượt cho bông cải, bắp non, nấm rơm vào xào cùng. Nhớ nêm hạt nêm Knorr từ Nấm và Rong biển vào rồi trở đều tay cho hạt nêm thấm vào bông cải, bắp và nấm. Lượng hạt nêm các bạn tự nêm nếm sao cho phù hợp với khẩu vị của gia đình nhé.",
+                                "Bước 4:Khi rau củ đã chín vừa thì cho tiếp cần ta vào đảo đều rồi tắt bếp đi. Lưu ý là chỉ để rau củ chín vừa thôi vì khi chín rục rau củ sẽ mất đi nhiều chất dinh dưỡng, khiến cho món ăn của bạn trở nên kém hấp dẫn hơn.",
+                                "Bước 5:Cho đồ xào ra đĩa và thêm ớt cắt miếng cùng vài nhánh tiêu xanh vào để món ăn đẹp mắt và hấp dẫn hơn. Bông cải xào tiêu xanh rất thích hợp để ăn kèm với cơm nóng, đặc biệt đây là món ăn thích hợp cho những ai đang ăn chay mà vẫn đảm bảo cung cấp đầy đủ các chất dinh dưỡng. Vậy là chỉ với vài bước đơn giản cùng Knorr từ Nấm và Rong biển, chúng ta đã có một món xào ngon và đẹp mắt lại đậm đà hương vị ẩm thực miền Nam phải không nào?"
+                            ],
+                            "price":40000,
+                            "Prepare":"10 minutes",
+                            "Cook":"15 minutes"
                         }
                     ]
                 },
                 {
-                    "titleChild": "Dring",
-                    "id": "2",
-                    "listFood": [
+                    "title": "Món canh ngon",
+                    "id": "4",
+                    "img": "./img/Mon_Canh_Ngon.jpg",
+                    "menu": [
                         {
                             "id": "1",
-                            "name": "Coca",
-                            "quantitative": 1,
-                            "price": 10000
+                            "name": "CANH KHỔ QUA LIÊN SƯỜN",
+                            "img": "./img/canh_khổ_qua_liên_sườn.jpg",
+                            "describe": "Một trong những món ăn không thể thiếu trong ngày Tết là canh khổ qua. Tác dụng của món ăn này là giúp thanh nhiệt, giải độc cho cơ thể sau những bữa ăn nhiều dầu mỡ.",
+                            "ingredient": [
+                                "400gr sườn heo",
+                                "4 trái khổ qua",
+                                "50gr hành lá",
+                                "2,5 thìa cà phê bột nêm Knorr tự nhiên vị gà",
+                                "1/2 thìa cà phê tiêu 1 lít nước"
+                            ],
+                            "making": [
+                                "Bước 1: SƠ CHẾ: Rửa sạch sườn heo rồi chặt thành từng khúc vừa ăn. Đối với khổ qua cắt khúc vừa ăn, bỏ ruột, rửa sạch rồi để ráo nước.",
+                                "Bước 2: CHẾ BIẾN: Cho sườn và 1 lít nước vào nồi hầm khoảng 20 phút. Trong quá trình đun, bạn nên vớt bớt bọt để nước hầm trong hơn. Sau khi hầm xong, bạn vớt sườn ra, dùng sườn cây xuyên qua miếng khổ qua đã được cắt khúc.",
+                                "Bước 3: Cho tiếp khổ qua xuyên sườn vào nấu trong nồi nước hầm lúc nãy và nêm bột nêm Knorr Tự nhiên vị gà vừa ăn. Khi nước sôi bùng, vặn nhỏ lửa, hầm cho đến khi sườn và khổ qua mềm thì tắt bếp. Cho hành lá vào đảo đều và nêm thêm tiêu cùng các gia vị khác.",
+                                "Bước 4: TRÌNH BÀY VÀ THƯỞNG THỨC: Cho canh khổ qua liên sườn ra tô và tùy theo nhu cầu của gia đình, các bạn có thể trang trí thêm để món ăn thêm phần bắt mắt."
+                            ],
+                            "price": 50000,
+                            "numberPeople": 4,
+                            "Prepare": "5 minutes",
+                            "Cook": "15 minutes"
                         },
                         {
                             "id": "2",
-                            "name": "7-Up",
-                            "quantitative": 1,
-                            "price": 15000
+                            "name": "CANH SƯỜN HEO KHỔ QUA NGON BỔ CUỐI TUẦN",
+                            "img": "./img/canh_sườn_heo_khổ_qua.jpg",
+                            "describe": "Vị đắng của khổ qua hòa quyện với vị ngọt của nước dùng từ thịt & sườn heo là món canh ngon dễ làm.",
+                            "ingredient": [
+                                "400g sườn heo",
+                                "4 trái khổ qua",
+                                "50g hành lá",
+                                "3 thìa cà phê hạt nêm Knorr từ Thịt Thăn, Xương Ống và Tủy - Bổ sung Vitamin A, 1/2 thìa cà phê tiêu"
+                            ],
+                            "making": [
+                                "Bước 1: Đầu tiên, chúng ta cần rửa sạch hết tất cả nguyên liệu trước khi chế biến dù với bất kỳ món ăn nào đi chăng nữa. Với để cho nước canh ngọt thơm và ngon đúng vị thì chúng ta cần phải chọn sườn heo ngon. Vậy làm sao để chọn được sườn heo ngon. Để chọn được sườn ngon bạn cần lưu ý, một miếng sườn tươi ngon sẽ có màu hồng nhạt và đặc biệt không có mùi ôi thiu. Thêm nữa, khi ấn vào thịt sườn chúng ta sẽ thấy mặt sườn khô và vẫn còn giữ được độ đàn hồi.",
+                                "Bước 2: Sau khi đã chọn được sườn heo ngon, chúng ta mang về nhà và chặt thành từng khúc nhỏ vừa ăn. Sau đó rửa sạch với nước muối cho bớt mùi tanh và loại bỏ một số vi khuẩn có hại. Khi đã rửa xong chúng ta nên cho sườn heo vào một rổ nhỏ để cho ráo nước.",
+                                "Bước 3: Bước tiếp theo, chúng ta lấy hành lá và cũng đem rửa sạch với nước để bảo vệ sinh nấu nướng, sau đó chúng ta sẽ cắt khúc.",
+                                "Bước 4: Kế tiếp, lấy khổ qua và dùng dao rạch loại bỏ ruột rồi rửa sạch. Tốt nhất chúng ta nên ngâm khổ qua với nước muối khoảng 5 - 10 phút cho bớt đắng, sau đó cắt miếng vừa ăn và cho vào một rổ riêng, không để chung với hành lá và sườn heo trước đó.",
+                                "Bước 5: Bước kế tiếp, chúng ta sẽ dùng một nồi lớn và cho nước vào đặt lên bếp đun nước sôi. Sau khi nước sôi lên, chúng ta cho một ít muối vào nồi và tiếp tục cho khổ qua vào chần sơ qua rồi lấy khổ qua ra, sau đó ngâm nước đá để không bị đắng.",
+                                "Bước 6: Tiếp theo sau đó, chúng ta sẽ cho 600ml nước vào nồi hầm sườn khoảng 20 phút. Lưu ý trong quá trình hầm sườn thi chúng ta cần chịu khó vớt bọt cho nước trong và ngon hơn. Sau đó, khi sườn đã săn lại thì cho tiếp khổ qua vào nấu thêm 10 phút nữa.",
+                                "Bước 7: Và bước cuối cùng là chúng ta sẽ nêm hạt nêm Knorr từ Thịt Thăn, Xương Ống và Tủy - Bổ sung Vitamin A vừa ăn. Tùy theo khẩu vị ăn thường ngày mà chúng ta nên nêm nếm sao cho phù hợp, tranh trường hợp quá mặn hoặc quá nhạt. Sau đó, tiếp tục hầm đến khi sườn và khổ qua mềm thì tắt bếp, cho hành lá vào đảo đều.",
+                                "Bước 8: Và cuối cùng là chúng ta có thể cho canh ra tô và dùng nóng với cơm. Có thể ăn kèm thêm với rau xanh và nước chấm các loại nếu bạn thích."
+                            ],
+                            "price": 30000,
+                            "numberPeople": 4,
+                            "Prepare": "15 minutes",
+                            "Cook": "45 minutes"
+                        },
+                        {
+                            "id": "3",
+                            "name": "CANH NGŨ SẮC - CANH NGON MÙA ĐÔNG ẤM ÁP",
+                            "img": "./img/canh_ngũ_sắc.jpg",
+                            "describe": "Canh ngũ sắc là một món canh ngon mùa đông lí tưởng giúp thanh lọc cơ thể. Vị ngọt từ thịt với vị tươi của rau củ làm bạn không thể chối từ.",
+                            "ingredient": [
+                                "Sườn non: 300g",
+                                "Bắp ngô ngọt: 2 trái",
+                                "Cà rốt nhỏ: 1 củ",
+                                "Susu: 1 quả",
+                                "Nấm hải sản: 1 túi",
+                                "Dầu ăn: 2 thìa canh",
+                                "Hành, Rau mùi: 50g",
+                                "Hạt nêm Knorr Thịt thăn, Xương ống & Tủy - Bổ sung Vitamin A: 2 thìa canh",
+                                "Ngò rí: 18g",
+                                "Nước: 1 lít"
+                            ],
+                            "making": [
+                                "Bước 1: Sườn non mua về chặt thành từng miếng vừa ăn, rửa cho thật sạch rồi cho vào nồi, đổ ngập nước, đun sôi trong vòng 2 phút thì đổ bỏ nước luộc đầu tiên này, rửa sạch sườn lại thêm 1 lần nữa rồi đựng riêng ra thành một rổ.",
+                                "Bước 2: Bắt nồi lên bếp. Làm nóng nồi với một muỗng dầu ăn. Sau đó bạn đem cho sườn vào đảo đều với 2 muỗng canh hạt nêm Knorr Thịt Thăn, Xương ống & Tủy - Bổ sung Vitamin A trong khoảng 5 phút để cho sườn được thấm vị và trở nên đậm đà hơn. Thêm lượng nước vừa ăn vào nồi, ước lượng sao cho không quá nhiều khiến nước dùng bị loãng, mở lửa to đun rồi bớt lửa, đậy vung đun thêm khoảng 20 phút.",
+                                "Bước 3: Trong khi đun sườn, bạn sơ chế các nguyên liệu khác: ngô bóc vỏ sạch, mỗi bắp cắt làm 4 khúc. Cà rốt cạo vỏ, cắt khúc dày cỡ 1.5cm. Su su gọt vỏ, rửa sạch nhựa rồi cắt thành từng miếng vừa ăn.",
+                                "Bước 4: Sau khi đun sườn đủ thời gian, bạn tiếp tục thả ngô vào và đun khoảng 15 phút cho ngô chín mềm. Sau đó bạn tiếp tục thả cà rốt vào trong nồi, lần này bạn chỉ đun khoảng 3 phút, bởi cà rốt rất dễ bị nát nếu đun quá lâu.",
+                                "Bước 5: Thả su su vào nồi, đun thêm khoảng 3 phút nữa. Vì nấm chín nhanh nhất nên bạn cho nấm vào cuối cùng, đun sôi trong vòng 2 phút rồi mở lửa lớn cho canh sôi bùng lên. Sau đó tắt bếp ngay, đừng đun quá lâu sẽ khiến các thành phần trong canh trở nên chín rục, mất đi độ ngon của nó.",
+                                "Bước 6: Nêm nếm canh lại cho vừa ăn rồi tắt bếp, rắc hành mùi đã cắt nhỏ vào nồi canh. Cuối cùng múc canh sườn ngũ sắc ra tô, trang trí thêm với một vài cọng ngò và rắc một ít tiêu cho nồi canh trở nên hấp dẫn hơn. Bạn có thể thưởng thức món canh này ngay khi còn nóng. Với cách làm tương đối đơn giản này, bạn đã có ngay một món canh sườn ngũ sắc cho cả gia đình bạn rồi. Nếu bạn muốn nấu món canh này dùng để ăn chay thì không phải nấu với sườn mà cho trực tiếp các loại củ vào nồi rồi đun sôi, nêm nếm gia vị sao cho phù hợp. Thưởng thức món canh ngon mùa đông nóng hổi này trong những ngày se se lạnh quả là một cảm giác tuyệt vời đấy."
+                            ],
+                            "price": 50000,
+                            "numberPeople": 4,
+                            "Prepare": "10 minutes",
+                            "Cook": "15 minutes"
+                        },
+                        {
+                            "id":"4",
+                            "name":"CANH CHUA CÁ BỚP NẤU MĂNG",
+                            "img":"./img/canh_chua_cá_bớp_măng.jpeg",
+                            "describe":"Canh chua cá bóp và măng là món canh chua cá phổ biến bởi hương vị thơm ngon, giúp thanh lọc cơ thể.",
+                            "ingredient":["300gr cá bốp",
+                                "100gr măng",
+                                "2 đầu hành",
+                                "1 gói Knorr Gia Vị Hoàn Chỉnh - Canh Chua",
+                                "1 muỗng canh dầu olive",
+                                "1/2 muỗng cà phê nước mắm"
+                            ],
+                            "making":["Bước 1:Đầu tiên để chế biến được món ăn này chúng ta phải rửa thật sạch các nguyên liệu và chuẩn bị đầy đủ. Đối với cá hồi, chúng ta sau khi mua ở siêu thị thì rửa sạch và để ráo nước sau đó thái từng lát mỏng vừa ăn, Khi mua lưu ý, chúng ta cần phải mua loại cá hồi còn da.",
+                                "Bước 2:Bước tiếp theo chúng ta sẽ lấy hành tím bóc sạch bỏ và rửa sạch, sau đó đập dập và cho vào chén nhỏ để riêng rồi sau đó chế biến.",
+                                "Bước 3:Tiếp đến, chúng ta sẽ lấy cá hồi đã được rửa sạch và thái lát đã chuẩn bị sẵn cho vào một tô nhỏ và ướp chúng với gia vị như muối tiêu, hạt nêm Knorr 3 Nấm Ngon. Sau đó để khoảng 15 phút cho thấm gia vị.",
+                                "Bước 4:Trong khi đợi cá thấm gia vị thì chúng ta tiếp tục lấy nấm đông cô gọt sạch gốc, tỉa đầu nấm cho đẹp và nấm linh chi nâu thì đem cắt gốc sau đó đem cả hai rửa sạch với nước muối để có thể loại bỏ một số chất độc hại gây ảnh hưởng đến sức khỏe. Rồi cho vào rổ nhỏ để ráo nước.",
+                                "Bước 5:Bước tiếp theo, chúng ta lấy cà rốt và gọt sạch vỏ rồi đem rửa sạch với nước, sau đó thái mỏng. Còn ớt sừng sau khi rửa thì đem thái sợi.",
+                                "Bước 6:Tiếp đến, chúng ta lấy hành, boaro và mang đi rửa sạch sau đó cắt thành từng miếng xéo, hành lá thì cắt khúc rồi rửa sạch. Lưu ý cần để riêng các nguyên liệu ra từng khay riêng để tiện chế biến và tránh nhầm lẫn với nhau.",
+                                "Bước 7:Bước tiếp chúng ta cần thực hiện đó là lấy chảo chống dính cho dầu ăn và làm nóng dầu ăn. Sau khi thấy dầu sôi tim thì chúng ta cho hành tím đập dập chuẩn bị sẵn khi nãy vào với hành boaro để phi thơm. Sau đó, tiếp tục cho hết cá vào xào vừa chín lấy ra và để riêng.",
+                                "Bước 8:Sau đó, tiếp tục cho dầu vào, thêm hành tím, nấm đông cô, nấm linh chi nâu, cà rốt xào. Xào đến khi vừa chín thì cho nước tương, hạt nêm Knorr 3 Nấm Ngon đã đánh tan trong nước. Sau đó, tiếp tục cho cá hồi vào và nêm lại vừa ăn, cho ớt thái sợi, hành lá rồi tắt bếp.",
+                                "Bước 9:Cuối cùng chúng ta lấy ra đĩa và dùng nóng với cơm cùng rau xanh tùy thích để thêm đậm đà gia vị và đủ chất dinh dưỡng, đồng thời giúp bữa cơm thêm phong phú hơn."
+                            ],
+                            "price":60000,
+                            "Prepare":"10 minutes",
+                            "Cook":"15 minutes"
+                        },
+
+                        {
+                            "id":"5",
+                            "name":"CANH RIÊU CÁ",
+                            "img":"./img/canh_riêu_cá.jpeg",
+                            "describe":"Nếu bạn đã chán với các món canh đơn giản? Với vị ngon lạ của Canh Riêu Cá là món ngon cho gia đình thưởng thức.",
+                            "ingredient":["500g cá chép, rửa sạch, cắt khúc",
+                                "2 quả cà chua, rửa sạch, cắt múi cau",
+                                "1 miếng dứa, gọt vỏ, bỏ mắt, rửa sạch, cắt miếng vừa ăn",
+                                "Hành củ, rửa sạch, băm nhuyễn",
+                                "Thì là, rửa sạch, cắt khúc",
+                                "Hành lá, rửa sạch, cắt khúc",
+                                "Dầu ăn để chiên cá",
+                                "4 bát nước để nấu canh",
+                                "1 gói Knorr Gia Vị Hoàn Chỉnh - Canh Riêu Cá",
+                                "Ăn kèm: cơm trắng, chén nước mắm chấm Knorr và ớt cắt lát"
+                            ],
+                            "making":["Bước 1:Đầu tiên, chúng ta cần rửa sạch hết tất cả nguyên liệu để đảm bảo vệ sinh an toàn thực phẩm. Để nấu được món canh riêu cá ngon bạn cần chọn đúng cá chép sông. Cá chép sông thường dài mình và dày mình đều từ trên xuống chứ không dày bụng, béo tròn như cá chép ao. Cá chép mua ở chợ về thì chúng ta sẽ bỏ ruột, cắt mang, cắt khúc vừa ăn và rửa sạch, cắt theo chiều dài cá thành 3 khúc là hợp lí nhất. Sau đó cho vào rổ nhỏ để ráo nước.",
+                                "Bước 2:Tiếp theo, chúng ta sẽ lấy 2 quả cà chua và rửa sạch rồi cắt múi cau. Còn dứa thì gọt vỏ, bỏ mắt, rửa sạch và cắt thành từng miếng vừa ăn.",
+                                "Bước 3:Sau đó, chúng ta sẽ lấy hành củ rồi rửa sạch tiếp đến là dùng thớt và dao băm nhuyễn. Còn thìa là thì bạn cũng đem rửa sạch rồi cắt khúc, hành lá cũng thực hiện tương tự như với thìa là.",
+                                "Bước 4:Bước tiếp theo, chúng ta sẽ lấy cá chép đã rửa sạch đem chiên sơ qua rồi cho vào một tô nhỏ để riêng ra và chế biến sau.",
+                                "Bước 5:Tiếp đến, chúng ta lấy chảo chống dính và bắt đầu phi thơm hành tím đã băm nhuyễn với dầu ăn. Sau khi hành bắt đầu chuyển vàng thì cho cà chua vào xào kỹ để có màu đẹp. Tiếp đến chúng ta sẽ nêm thêm với ít Knorr Gia Vị Hoàn Chỉnh - Canh Riêu Cá.",
+                                "Bước 6:Bước tiếp theo, chúng ta sẽ cho 2 chén nước và cá đã rán vào nồi lớn và bật bếp nấu sôi vài phút cho ngấm gia vị. Sau đó tiếp tục cho thêm 2 chén nước còn lại với dứa vào nấu tiếp tục nấu chín. Sau khi thấy dứa đã chín thì chúng ta sẽ nêm lần nữa với Knorr Gia Vị Hoàn Chỉnh - Canh Riêu Cá còn lại cho canh vừa ăn.",
+                                "Bước 7:Và bước cuối cùng, chúng ta sẽ cho canh ra bát, trang trí với hành lá, thì là để món ăn thêm thơm ngon và hấp dẫn hơn. Sau đó, chúng ta có thể dùng nóng với cơm. Để bữa ăn được đậm vị và đa dạng hơn, bạn thể ăn kèm thêm chén nước mắm chấm Knorr và ớt cắt lát, rồi dùng với ít rau xanh tùy loại theo sở thích ăn uống của gia đình để bổ sung đủ chất dinh dưỡng nhé."
+                            ],
+                            "price":50000,
+                            "Prepare":"30 minutes",
+                            "Cook":"10 minutes"
+                        },
+
+                        {
+                            "id":"6",
+                            "name":"CANH DƯA CẢI BẮP BÒ",
+                            "img":"./img/canh_dưa_cải_bắp_bò.jpeg",
+                            "describe":"Canh Dưa Cải Bắp Bò là món ngon từ thịt bò có mặt trong thực đơn hàng ngày của gia đình Việt.",
+                            "ingredient":["200g bắp bò",
+                                "200g dưa cải chua",
+                                "2 trái cà chua",
+                                "2 củ hành tím",
+                                "1 lít nước dùng",
+                                "1 gói Knorr Canh chua"
+                            ],
+                            "making":["Bước 1:Để thực hiện chế biến món ăn này, bạn sẽ thực hiện lần lượt như sau. Bắp bò rửa sạch, luộc sơ, cắt miếng mỏng vừa ăn. Nếu bạn muốn làm giảm bớt mùi bò trong thịt có thể cho một ít gừng và sả đập dập vào nước luộc thịt. Sau đó xả thịt lại với lạnh rồi để ráo.",
+                                "Bước 2:Bước tiếp theo, bạn lấy dưa cải chua nên vắt hết nước chua, rửa sạch, cắt khúc vừa ăn, sau đó đeo bao tay vào và vắt nhẹ để khi nấu dưa không ra nhiều nước. Bạn nên tự làm dưa chua để đảm bảo vệ sinh và ngon hơn. Nếu mua dưa bên ngoài, nên chọn dưa cải bẹ muối vàng, mùi dưa thơm, không bị khú.",
+                                "Bước 3:Sau đó, đem cà chua rửa sạch, cắt múi cau, bỏ hạt. Hành tím bóc vỏ, rửa sạch, cắt lát mỏng hoặc băm nhỏ.",
+                                "Bước 4:Đặt nồi lên bếp, cho một ít dầu ăn vào đun nóng, cho một nửa hành tím băm nhỏ vào phi thơm. Sau đó cho thịt bò vào xào. Lưu ý nên để lửa to để thịt bò không bị dai và ra nước. Khoảng 2-3 phút sau cho nước vào đun sôi, hớt bớt bọt nếu có để nước được trong. Lúc này vặn nhỏ lửa để ninh bắp bò cho mềm.",
+                                "Bước 5:Dùng một nồi khác đặt lên bếp, cho ít dầu vào đun nóng, lại cho phần hành tím còn lại vào phi thơm. Tiếp đến cho dưa chua vào xào trong khoảng 3 phút. Nên cho một ít đường để làm giảm độ mặn của dưa và giúp tăng thêm vị đậm đà.",
+                                "Bước 6:Quay lại với nồi hầm bắp bò. Khi bắp bò hơi mềm, đổ cải chua đã xào vào. Nấu đến khi bắp bò thật mềm, cho cà chua vào, nêm 1 gói Canh Chua vào, khi canh sôi lại thì nhắc xuống. Lưu ý trong quá trình ninh bắp bò có thể bị cạn nước, bạn có thể châm thêm nước để đảm bảo đủ lượng nước dùng.",
+                                "Bước 7:Và cuối cho canh ra tô, cho thêm hành phi lên trên, có thể cho thêm vài khoanh ớt vào, dùng nóng với cơm. Món canh dưa cải bắp bò với vị chua chua dễ ăn của dưa cải giúp món ăn thêm ngon miệng, xua tan mệt nhọc cho cả gia đình."
+                            ],
+                            "price":60000,
+                            "Prepare":"5 minutes",
+                            "Cook":"15 minutes"
+                        }
+                    ]
+                },
+                {
+                    "title": "Món nướng",
+                    "id": "5",
+                    "img": "./img/Mon_Nuong.png",
+                    "menu": [
+                        {
+                            "id": "1",
+                            "name": "THĂN HEO NƯỚNG TRÀ XANH",
+                            "img": "./img/thăn_heo_nướng_trà_xanh.jpg",
+                            "describe": "Trà xanh kết hợp với thăn heo! Món ngon từ thịt heo không thể cưỡng nổi!",
+                            "ingredient": [
+                                "300g thăn heo, cắt miếng vừa ăn",
+                                "½ chén lá trà xanh",
+                                "2 tép tỏi, bằm nhuyễn",
+                                "2 của hành tím, bằm nhuyễn",
+                                "200g xà lách, cà chua, dưa leo",
+                                "1 muỗng cà phê hạt nêm Knorr từ Thịt Thăn, Xương Ống và Tủy - Bổ sung Vitamin A",
+                                "½ muỗng cà phê đường cát trắng",
+                                "½ muỗng canh nước tương",
+                                "¼ muỗng cà phê tiêu xay",
+                                "1 muỗng canh dầu ăn"
+                            ],
+                            "making": [
+                                "Bước 1: Đầu tiên, để chế biến được món ăn này chúng ta cần rửa sạch hết tất cả nguyên liệu trước khi chế biến để đảm bảo được vệ sinh an toàn thực phẩm. Xương heo chúng ta phải sau khi được mua ở chợ về chúng ta sẽ rửa sạch với nước muối sau đó cho vào rổ và để ráo nước.",
+                                "Bước 2: Sau đó, lấy xà lách, cà chua, dưa leo thật sạch với nước. Tốt nhất chúng ta nên rửa với nước muối để có thể loại bỏ bớt chất độc hại hoặc một số vi khuẩn gây hại đến sức khỏe. Rồi cho vào một rổ riêng và đợi ráo nước. Lưu ý không nên cho rau với thịt xương heo chung một rổ nhé!",
+                                "Bước 3: Kế tiếp, chúng ta lấy hành tím bóc sạch vỏ, tỏi cũng làm tương tư như thế và sau đó băm nhuyễn cả tỏi và hành tím và cho vào một chén nhỏ. Bạn thể để chung tỏi với hành hoặc để riêng ra cũng được.",
+                                "Bước 4: Bước tiếp theo, chúng ta sẽ ướp thăn heo với hạt nêm từ thịt Knorr, nước tương, đường cát trắng, tiêu xay, hành tím và tỏi bằm. Sau đó để khoảng 15 phút cho gia vị thấm đều với nhau.",
+                                "Bước 5: Trong quá trình đợi thịt thấm gia vị chúng ta nên lấy lá trà xanh chần sơ qua nước nước sôi để tạo độ dai cho lá cũng nhưng giúp lá bớt đi vị đắng tự nhiên.",
+                                "Bước 6: Sau đó, chúng ta sẽ bắt đầu dùng lá trà xanh cuộn xung quanh thăn heo đã ướp với gia vị lúc nãy. Sau đó, chúng ta nên dùng que xiên để giữ chặt cho thăn heo bị rơi rớt ra.",
+                                "Bước 7: Và cuối cũng sau khi thịt thăn heo đã chín thì chúng ta sẽ để thăn heo vào dĩa, trang trí với xà lách, cà chua, dưa leo đã được rửa sạch. Rồi dùng nóng với muối ớt. Tùy theo sở thích của mỗi người mà chúng ta có thể ăn kèm với nước chấm khác nhau để món ăn thêm hấp dẫn và đậm vị hơn nhé. Chúc các bạn luôn ngon miệng."
+                            ],
+                            "price": 40000,
+                            "numberPeople": 4,
+                            "Prepare": "10 minutes",
+                            "cook": "15 minutes"
+                        },
+                        {
+                            "id": "2",
+                            "name": "THỊT XIÊN NƯỚNG",
+                            "img": "./img/thịt_xiên_nướng.jpg",
+                            "describe": "Thịt xiên nướng nằm trong các món nướng ngon lí tưởng cho gia đình bạn. Hương vị thịt nướng thơm phức sẽ khiến bữa ăn thêm ngon miệng hơn đấy!",
+                            "ingredient": [
+                                "500g thit lợn vai",
+                                "Hành tím: 3",
+                                "củ Tỏi: 4 nhánh",
+                                "Canh mắm 1 thìa",
+                                "Đường: 2 thìa",
+                                "Vừng trắng rang chín",
+                                "Đường, nước mắm",
+                                "Xiên que",
+                                "Knorr Gia Vị Hoàn Chỉnh - Thịt Kho: 2 gói"
+                            ],
+                            "making": [
+                                "Bước 1: Thịt heo mua về rửa sạch với nước và muối, cắt miếng mỏng vừa ăn, khoảng 3-4mm. Không nên cắt quá dày quá khó xiên và cũng không cắt mỏng quá thịt sẽ bị vụn khi rút khỏi xiên nướng. Để làm món thịt heo xiên nướng ngon nên chọn loại thịt có xen kẽ một chút mỡ, khi nướng mỡ sẽ tiết ra giúp thịt vừa mềm ngon và không bị khô. Loại thịt tốt nhất để làm món này là thịt nạc vai. Nếu thích ăn nhiều mỡ hơn chút, bạn có thể chọn mua thịt ba chỉ ngon, nhưng đừng nên chọn miếng nhiều mỡ quá sẽ gây ngán.",
+                                "Bước 2: Tỏi và hành tím bỏ vỏ, rửa sạch, băm nhỏ rồi cho vào cối giã nhuyễn sau đó cho thêm vừng vào giã chung",
+                                "Bước 3: Sau đó cho tất cả các gia vị đã chuẩn bị ở trên với thịt và Knorr Gia Vị Hoàn Chỉnh - Thịt Kho, trộn kĩ, để thịt ướp khoảng 15 phút cho thấm đều gia vị.",
+                                "Bước 4: Sau khi đã ướp thịt xong, lấy từng miếng thịt rồi xiên theo kiểu gấp khúc vào que tre đã ngâm nước. Nước ướp thịt còn thừa trong bát giữ lại. Bạn có thể dùng tay xoắn cho xiên thịt tròn đều. Xiên thịt khoảng ¾ của que tre, rồi tiếp tục làm cho đến khi hết số thịt.",
+                                "Bước 5: Sau khi đã xiên thịt xong, bạn xếp đều các xiên thịt lên bếp và nướng trong khoảng 10 phút. Trong quá trình nướng bạn dùng nước ướp thịt còn lại quét lên thịt cho tới khi xiên thịt chín vàng. Khi thịt chín vàng đều, dậy mùi thơm nức mũi là thịt đã chín. Bạn có thể nướng thịt xiên bằng bếp nướng điện, bằng lò nướng nhưng cách làm thịt xiên nướng ngon nhất chính là sử dụng bếp than.",
+                                "Bước 6: Thịt heo xiên nướng ăn kèm với cơm gạo tấm hoặc ăn không với 1 ít đồ chua là tuyệt vời nhất bạn nhé!"
+                            ],
+                            "price": 60000,
+                            "numberPeople": 6,
+                            "Prepare": "15 minutes",
+                            "cook": "30 minutes"
+                        },
+                        {
+                            "id":"3",
+                            "name":"THỊT BA CHỈ NƯỚNG MÈ",
+                            "img":"./img/Thịt_ba_chỉ_nướng_mè.jpeg",
+                            "describe":"Thịt ba chỉ là món nướng ngon quen thuộc cho bữa cơm. Với thịt ba chỉ nướng mè, bạn sẽ góp thêm vào thực đơn hương vị vô cùng độc đáo.",
+                            "ingredient":["600g ba chỉ rút sườn",
+                                "Sa tế: 1 muỗng",
+                                "Nước mắm cốt: 1 muỗng cà phê",
+                                "Tỏi: 3 tép",
+                                "Hạt tiêu bột: 1/2 muỗng cà phê",
+                                "Sả: 3 cây",
+                                "Mật ong: 3 muỗng cà phê",
+                                "Dầu ăn",
+                                "Mè: 50g",
+                                "2 gói Knorr Gia Vị Hoàn Chỉnh - Thịt Kho"
+                            ],
+                            "making":["Bước 1:Đầu tiên, bạn đem tỏi đi lột sạch vỏ, sau đó bằm nhuyễn rồi bỏ vào chén.",
+                                "Bước 2:Bắt chảo lên bếp, cho mè vào rang, đảo đều tay và cho lửa vừa để tránh bị cháy. Sau đó bạn tắt bếp, để mè nguội rồi giã hơi dập. Chia mè làm hai phần: Một phần để ướp thịt và một phần rắc lên thịt sau khi nướng xong.",
+                                "Bước 3:Sả bạn đem đi lột phần vỏ bẩn bên ngoài, sau đó cắt khúc rồi băm nhuyễn, để cùng với tỏi lúc nãy.",
+                                "Bước 4:Thịt ba chỉ sau khi bạn mua về thì hãy rửa sạch, chà xát muối thật kĩ, để ngăn đông của tủ lạnh trong khoảng 30 phút cho thịt hơi đông sau đó cắt miếng to bản và dày khoảng 6- 7cm. Bạn nhớ đừng thái miếng quá mỏng nhé! Sau đó, bạn cho thịt vào tô lớn và ướp với 2 gói Knorr Gia Vị Hoàn Chỉnh Thịt Kho, 2 muỗng sa tế, tỏi và sả bằm và vừng rồi trộn đều lên và để khoảng khoảng 20 phút.",
+                                "Bước 5:Sau 20 phút, khi thịt đã ngấm đều các gia vị, bạn có thể nướng thịt trực tiếp ở lò nướng hoặc bếp than. Pha mật ong cùng 1 muỗng dầu hòa đều để quét trên mặt thịt trong quá trình nướng để tăng thêm hương vị thơm ngon.",
+                                "Bước 6:Nếu bạn nướng bằng bếp than, nhớ canh trở thịt để thịt chín đều bạn. Còn nếu nướng bằng lò nướng, hãy bật lò nướng ở nhiệt độ 200 độ C trước 10 phút để làm nóng lò, tiếp theo cho phần mật ong và dầu ăn lúc nãy vào khay nướng, xếp từng miếng thịt ba chỉ lên. Nếu lò nướng chỉ có chế độ nướng lửa dưới, cũng như bếp than, thỉnh thoảng bạn trở mặt thịt để thịt chín vàng đều và nướng trong khoảng 10 phút. Nếu lò nướng có 2 chế độ nướng lửa trên và lửa dưới thì không cần trở mặt thịt và nướng trong khoảng 8 phút. Sau đó, bạn rắc vừng lên thịt rồi nướng thêm 1 phút nữa.",
+                                "Bước 7:Cuối cùng, khi thịt đã chín vàng đều hai mặt và dậy mùi hương nức mũi thì gắp ra đĩa. Bạn có thể trang trì thêm rau xà lách,dưa leo, cà chua thái lát cho dĩa thịt thêm đẹp mắt và ngon miệng hơn khi dùng.",
+                                "Bước 8:Món này ăn kèm với nước nắm chua ngọt thì rất tuyệt. Để làm nước chấm này, tỏi và ớt bạn băm thật nhuyễn, rồi cho ra chén, cho vào một ít bột ngọt, đường, rót nước ấm vào rồi khuấy đều. Khi đường tan hết, ta cho nước mắm vào. Bạn có thể vắt thêm chanh ít nhiều tùy theo sở thích. Chỉ với những bước đơn giản trên đây, chúng ta đã có ngay món thịt ba chỉ nướng mè thơm ngon đãi cả nhà dịp cuối tuần rồi."
+                            ],
+                            "price":70000,
+                            "Prepare":"20 minutes",
+                            "Cook":"30 minutes"
+                        },
+
+                        {
+                            "id":"4",
+                            "name":"GÀ TA NƯỚNG MÈ",
+                            "img":"./img/gà_ta_nướng_mè.jpeg",
+                            "describe":"Chỉ với vài phút, bạn có thể làm ngay gà ta nướng mè thơm phức với vị ngon của thịt gà và vị thơm của mè.",
+                            "ingredient":["500g gà ta",
+                                "Mè đen: 5g",
+                                "Mật ong: 1 muỗng",
+                                "Knorr Gia Vị Hoàn Chỉnh - Thịt Kho: 2 gói",
+                                "Nước tương: 1 thìa",
+                                "Nước mắm: 1 thìa",
+                                "Gừng: ½ củ",
+                                "Hành lá: 10g"
+                            ],
+                            "making":["Bước 1:Đầu tiên, chúng ta cần làm nước tương để ướp thịt gà. Bạn chỉ cần cho một ít nước tương, nước mắm, Knorr Gia Vị Hoàn Chỉnh - Thịt Kho và mật ong vào một bát nhỏ rồi khuấy đều.",
+                                "Bước 2:Đùi gà mua về hãy đem rửa sạch bằng nước muối pha loãng, rồi vớt ra rổ cho thật ráo nước ( muốn nhanh bạn có thể dùng khăn giấy thấm nước trên đùi gà). Sau đó, bạn chặt gà thành từng miếng nhỏ vừa ăn.",
+                                "Bước 3:Các bạn cho đùi gà vào bát nước ướp vừa pha lúc nãy rồi dùng muỗng thoa đều nước tương lên những miếng gà và cho vào tủ lạnh ướp khoảng 15 phút. Bạn có thể dùng tăm hoặc dĩa xiên vài lỗ trên đùi gà để phần gia vị có thể thấm nhanh và kỹ vào thịt gà hơn.",
+                                "Bước 4:Đối với gừng, cạo vỏ, rửa sạch, thái thành từng lát mỏng, để riêng thành một bát. Hành lá cũng đem rửa sạch, cắt khúc khoảng 3 – 5 cm là được.",
+                                "Bước 5:Xếp hành và gừng trải đều lên khay nướng, rồi để những miếng gà lên phía trên cùng. Sau đó, bạn cho khay vào lò, nướng ở nhiệt độ khoảng 200 độ c, nướng trong vòng 30 phút. Bạn nhớ canh trở gà liên tục để gà có thể chín đều. Khi đùi gà có màu vàng cánh gián đẹp mắt thì hãy cho ra ngoài.",
+                                "Bước 6:Cuối cùng, sau khi hoàn tất việc nướng thịt gà rồi thì hãy xếp thịt gà ra đĩa và rắc mè lên phía trên đĩa và trang trí với rau sống, dưa leo, cà chua tùy sở thích của bạn. Phần nước sốt còn lại bạn có thể dùng để trộn ăn với cơm rất ngon."
+                            ],
+                            "price":40000,
+                            "Prepare":"15 minutes",
+                            "Cook":"30 minutes"
+                        },
+
+                        {
+                            "id":"5",
+                            "name":"GÀ NƯỚNG NGŨ VỊ",
+                            "img":"./img/gà_nướng_ngũ_vị.jpeg",
+                            "describe":"Gà Nướng Ngũ Vị là món ngon từ thịt gà được nhiều bà nội trợ yêu mến.",
+                            "ingredient":["1,5kg gà ta",
+                                "50g ớt sừng không cay",
+                                "20g ớt xay",
+                                "10g ớt khô Huế",
+                                "20g hành tím khô",
+                                "20 tỏi",
+                                "20g tương ớt",
+                                "10ml màu điều",
+                                "10g bột thịt gà Knorr",
+                                "30g bột chua cay kiểu Thái Knorr hoặc súp nền lẩu Thái Knorr",
+                                "10ml dầu ăn"
+                            ],
+                            "making":["Bước 1:Đầu tiên để chế biến món gà nướng ngũ vị hay các món ăn khác thì việc đầu tiên cần làm là làm sạch các nguyên liệu.Tuy nhiên để làm được món ăn này thật ngon, chúng ta cần chọn đúng gà ta. Theo kinh nghiệm thì da gà ta vàng nhạt, đặc biệt chỉ vàng đậm ở một số chỗ như ức, cánh hay lưng. Nếu chúng ta mua gà ta làm sẵn thì cần lưu ý, gà ta thường có thân hình nhỏ gọn, săn chắc, ức hẹp.",
+                                "Bước 2:Đầu tiên để chế biến món gà nướng ngũ vị hay các món ăn khác thì việc đầu tiên cần làm là làm sạch các nguyên liệu.Tuy nhiên để làm được món ăn này thật ngon, chúng ta cần chọn đúng gà ta. Theo kinh nghiệm thì da gà ta vàng nhạt, đặc biệt chỉ vàng đậm ở một số chỗ như ức, cánh hay lưng. Nếu chúng ta mua gà ta làm sẵn thì cần lưu ý, gà ta thường có thân hình nhỏ gọn, săn chắc, ức hẹp.",
+                                "Bước 3:Sau đó lấy hành tím bóc sạch vỏ rửa sạch và tỏi cũng làm tương tự như thế để qua một bên trong khay nhỏ để sau đó chế cho tiện lợi.",
+                                "Bước 4:Bước tiếp theo chúng ta sẽ chế biến xốt nướng. Để làm được nước xốt này chúng ta cần thực hiện như sau: Đầu tiên chúng ta cho tổng hợp gia vị đã chuẩn bị sẵn ở trên vào máy sinh tố và cứ thế xay thật nhuyễn. Sau đó cho nước xốt ra một to lớn hoặc có thể để nguyên trong máy xay rồi tắt máy.",
+                                "Bước 5:Tiếp theo, chúng ta lấy gà đã được làm sạch rồi đem ướp với nước xốt đã vừa mới chế biến khi nãy vào bên trong cũng như bên ngoài da của gà. Và chúng ta nên để khoảng 20 phút cho nước xốt thấm đều. Sau đó tiếp tục cho vào lò nướng ở nhiệt độ 180 nướng khoảng 25 phút. Sau khi gà chín vàng thị lấy ra.",
+                                "Bước 6:Và cuối cùng khi gà đã chín vàng thì chúng ta lấy ra ngoài cho nguội. Khi ăn gà thì chúng ta có thể chặt ra thành từng miếng nhỏ xếp ra dĩa, ăn kèm với rau răm, chấm với muối ớt. Chúng ta có thể ăn kèm món gà này với những món ăn khác để tăng thêm sự phong phú cho bữa ăn gia đình, hoặc nếu nhà có khách thì bữa ăn sẽ thêm đa dạng hơn."
+                            ],
+                            "price":40000,
+                            "Prepare":"15 minutes",
+                            "Cook":"20 minutes"
+                        },
+
+                        {
+                            "id":"6",
+                            "name":"CÀ RI NƯỚNG",
+                            "img":"./img/cà_ri_nướng.png",
+                            "describe":"",
+                            "ingredient":["3 đùi gà",
+                                "50g nấm rơm",
+                                "2 trứng gà",
+                                "1/4 quả ớt chuông đỏ",
+                                "1/2 củ hành tây",
+                                "1 nhánh lá cà ri tươi",
+                                "1 thìa súp cà ri Ấn",
+                                "2 thìa súp kem tươi",
+                                "100g sữa tươi",
+                                "1/2 chén nước cốt dừa",
+                                "1 thìa cà phê bơ",
+                                "2 thìa súp bột mì, ít giấy bạc, bánh mì ăn kèm",
+                                "1 thìa súp dầu ăn, 1 thìa súp nước cốt tỏi, 1/2 thìa cà phê ớt bột Huế, 1/4 thìa cà phê muối, 1 thìa cà phê đường, 1/2 thìa cà phê hạt nêm từ Thịt Thăn, Xương Ống và Tủy - Bổ sung Vitamin A"
+                            ],
+                            "making":["Bước 1:Đùi gà lóc lấy nạc, bỏ xương, cắt miếng vuông, ướp với dầu ăn, nước cốt tỏi, ớt bột Huế, muối, đường, hạt nêm từ Thịt thăn và Xương ống, để 10 phút cho thấm, rắc bột mì vào áo đều thịt gà, chiên cho miếng gà săn lại, vớt ra để ráo dầu",
+                                "Bước 2:Nấm rơm gọt bỏ gốc rửa sạch. Ớt chuông bỏ ruột, cắt miếng vuông. Hành tây một phần băm nhỏ, một phần cắt miếng vuông",
+                                "Bước 3:Đánh tan trứng với kem tươi, sữa tươi và nước cốt dừa, lược lại cho mịn",
+                                "Bước 4:Xào thơm hành tây băm nhỏ, cho sả vào xào vừa vàng, cho tiếp lá cà ri, bơ, 1 thìa bột mì xào sơ, rồi cho gà vào, đảo đều cho thấm gia vị, nêm 1 thìa cà phê đường, 2 thìa cà phê hạt nêm Knorr từ Thịt thăn và Xương ống, cho vào bát hoặc thố, cho hỗn hợp trứng sữa lên trên, đem nướng khoảng 15-20 phút, ở 200 độ C, để lửa trên dưới, lấy khuôn ra, bọc giấy bạc kín lại, cho vào lò nướng tiếp 30 phút đến khi cà ri đặc lại, thử không dính tăm là được.",
+                                "Bước 5:Dọn ra bàn ăn kèm với bánh mì, dùng nóng."
+                            ],
+                            "price":30000,
+                            "Prepare":"15 minutes",
+                            "Cook":"45 minutes"
+                        }
+                    ]
+                },
+                {
+                    "title": "Món lẩu ngon",
+                    "id": "6",
+                    "img": "./img/Mon_Lau.jpg",
+                    "menu": [
+                        {
+                            "id": "1",
+                            "name": "LẨU BÒ CAY CUỐI TUẦN CHO GIA ĐÌNH",
+                            "img": "./img/lẩu_bò_cay.jpeg",
+                            "describe": "Vào cuối tuần, còn gì tuyệt hơn là nồi Lẩu Bò Cay thơm lừng bốc khói hít hà! Một món ngon dễ làm cuối tuần cho gia đình không thể bỏ lỡ!",
+                            "ingredient": [
+                                "200g Thịt bò thăn",
+                                "200g Thịt bò bắp",
+                                "200g Nghêu tươi",
+                                "2 cây Đậu non",
+                                "2 cây Sả",
+                                "2 củ Hành tím",
+                                "2 củ Tỏi",
+                                "1 nhánh nhỏ Gừng tươi",
+                                "2 trái Cà chua",
+                                "4 trái Ớt hiểm",
+                                "1 hộp Knorr Viên súp lẩu thái (20g/hộp - 2 viên)",
+                                "1 muỗng canh nước mắm",
+                                "1 muỗng cà phê đường",
+                                "1 lít (4 chén) Nước",
+                                "2 muỗng canh Dầu ăn Rau ăn kèm: Rau cải thảo, nấm kim châm, rau mồng tơi."
+                            ],
+                            "making": [
+                                "Bước 1: Lựa chọn thật kĩ thịt bò tươi ngon, thịt bò thăn và bắp nên có độ dai nhất định để khi bỏ vào nồi lẩu thịt không bị xơ hay bở. Tiến hành rửa sạch phần bắp bò và bò thăn. Cần phải luộc thật kĩ và liên tục vớt bọt ra khỏi nồi để nước dùng không bị đục. Sau đó vớt phần bắp và thăn bò ra khỏi nồi, bỏ lên thớt thái từng lát mỏng vừa ăn. Chú ý không được thái to quá hoặc lớn qua có thể gây cảm giác khó chịu khi nhai.",
+                                "Bước 2: Tiến hành sơ chế các loại rau củ một cách thật cẩn thận, loại bỏ những phần cuốn, ngọn rau bị héo vàng hay sâu để đảm bảo chất lượng cho món ăn. Sau khi rửa rau chúng ta để ráo nước rồi bày ra dĩa. Chú ý rằng nên đập dập sả và cắt ra từng khúc nhỏ. Cà chua cắt đôi, hành tím và tỏi phải băm cho nhuyễn.",
+                                "Bước 3: Nghêu mua về cần phải được cạo sạch vỏ, đồng thời ngâm nghêu với nước muối pha loãng để nghêu nhả hết bùn đất bên trong, sau đó cho lên nồi luộc chín. Chú ý chỉ luộc tới khi nghêu mở miệng là tắt lửa vớt ra và rửa lại bằng nước lạnh để cho thịt nghêu có độ dai.",
+                                "Bước 4: Lấy chảo bắc lên bếp cho nóng. Sau đó cho một ít dầu ăn vào rồi tiến hành xào sơ hành, tỏi, cà chua và ớt. Lưu ý chỉ xào sơ qua chứ không nên xào quá chín, bởi những thứ như hành, tỏi, cà chua và ớt sẽ còn qua thêm 1 lần nước lẩu nữa, nếu như xào quá chín sẽ làm hương vị món ăn không được đậm đà.",
+                                "Bước 5: Phần nước lẩu được làm từ nồi nước luộc thịt bò ở bước đầu tiên. Chúng ta bắc lên bếp đun sôi. Sau đó tiến hành cho thêm gia vị, hạt nêm Knorr, muối, đường. Nêm nếm vừa ăn, nên nếm cho nước dùng hơi nhạt, không nên nêm quá mặn vì mỗi lẫn ăn bạn sẽ phải đun sôi lại. Khi ấy dễ dẫn đến tình trạng nước dùng bị mặn do hâm nóng lại nhiều lần, kéo theo đó là các thức ăn khác khi qua nước lẩu cũng sẽ bị mặn.",
+                                "Bước 6: Sau khi chuẩn bị xong nguyên liệu để ăn lẩu thì múc nước dùng ra một cái nồi nhỏ để ăn lẩu. Đặt nó trên bếp gas mini hoặc là bếp điện và dọn các loại rau, thịt ra để ăn cùng. Cho thịt bò, nghêu, cà chua, đậu hủ vào trước cuối cùng là các loại rau, bởi lẽ rau rất nhanh chín, nếu như cho vào trước thì rau có thể bị nát quá. Chờ cho chín là có thể dùng được. Lẩu thường ăn kèm với mì tôm cho hương vị thật đậm đà."
+                            ],
+                            "price": 100000,
+                            "numberPeople": 2,
+                            "Prepare": "15 minutes",
+                            "cook": "15 minutes"
+                        },
+                        {
+                            "id":"2",
+                            "name":"CÁCH NẤU LẨU TÔM CÀNG XANH CHUA CAY",
+                            "img":"./img/Lẩu_tôm_càng_xanh.jpeg",
+                            "describe":"Lẩu Tôm Càng Xanh Chua Cay là món ăn từ tôm tươi thơm ngon, hấp dẫn cho cả trẻ em và người lớn. Làm ngay món lẩu ngon dinh dưỡng cho gia đình bạn nhé!",
+                            "ingredient":["8 con Tôm càng xanh",
+                                "30g Riềng",
+                                "3 cây Sả",
+                                "3 Lá chanh 3 trái Ớt hiểm",
+                                "5 củ hành tím",
+                                "2 trái Cà chua",
+                                "½ trái Thơm chin",
+                                "1 hộp Knorr Viên súp lẩu thái (20g/hộp - 2 viên)",
+                                "1 muỗng cà phê Đường",
+                                "1 muỗng canh nước mắm",
+                                "1 lít (4 chén) Nước",
+                                "2 muỗng Dầu ăn Ngò ôm, Ngò gai, bắp chuối, bạc hà, giá đỗ",
+                                "Bún tươi: 0.5kg"
+                            ],
+                            "making":["Bước 1:Đầu tiên, chúng ta cần rửa sạch hết tất cả nguyên liệu trước khi chế biến để đảm bảo được vệ sinh an toàn thực phẩm. Tuy nhiên, điều khó khăn đó chính là làm sao để chọn được tôm càng xanh không bơm tạp chất. Để nhận biết tôm có bơm tạp chất hay không bạn cần chú ý như sau: Tôm bơm tạp chất thường xòe đuôi, trong khi tôm sạch thường cúp đuôi xuống,tôm bơm tạp chất sẽ nhanh chết hơn hơn tôm sạch. Tôm bị bơm thường có mang cứng, thẳng đơ, phồng căng trong khi mang tôm thường mềm, phẳng. Vì thế khi mua tôm cần chú ý mua những con tôm còn sống khỏe mạnh nhé.",
+                                "Bước 2:Sau khi đã chọn tôm tươi xong, bạn mang tôm về và rửa sạch rồi để ráo nước. Không cần cắt đầu hay lột vỏ, để nguyên con. Còn đối với các loại rau thì chúng ta cần chú ý rửa thật sạch, tốt nhất là nên ngâm sơ qua với nước muối để đảm bảo an toàn sức khỏe hơn. Sau đó cho vào rổ và để ráo nước.",
+                                "Bước 3:Sau đó, chúng ta lấy rau đã rửa sạch và ráo nước rồi trình bày tất cả ra đĩa. Chúng ta lưu ý cần cắt riềng thành từng miếng mỏng, sả và hành tím, ớt, băm nhuyễn, cà chua bổ múi cau, thơm thì cắt thành từng miếng vừa ăn.",
+                                "Bước 4:Tiếp theo, bạn dùng một nồi lớn, bật bếp và bắt đầu làm nóng dầu ăn. Sau khi dầu sôi thì chúng ta tiếp tục xào cho thơm riềng, sả, hành tím, lá chanh, cà chua và thơm. Sau khi các nguyên liệu này hơi mềm thì tiếp tục cho nước vào nấu sôi.",
+                                "Bước 5:Bước tiếp theo, sau khi nước đã sôi lên thì chúng ta sẽ nêm với hạt nêm Knorr Viên Súp lẩu thái, thêm chút đường, nước mắm cho đậm đà. Nếu khẩu vị thường ngày của gia đình thích vị chua đậm đà hơn thì có thể thêm nước cốt chanh nếu thích.",
+                                "Bước 6:Và cuối cùng sau khi nước lẩu dã chín chúng ta có thể cho ra một nồi nhỏ khác để lửa riu riu và bắt đầu cho tôm càng xanh đã rửa sạch cùng các loại nguyên liệu ưa thích vào nấu chín. Dùng chung với bún tươi và nước mắm ớt hoặc muối ớt. Nếu chúng ta muốn món lẩu tôm thêm hấp dẫn và phong phú thì có thể cho thêm mực, cá viên, nghêu,...cùng với các loại hải sản khác để biến tấu món ăn thêm đa dạng hơn."
+                            ],
+                            "price":100000,
+                            "Prepare":"30 minutes",
+                            "Cook":"10 minutes"
+                        },
+
+                        {
+                            "id":"3",
+                            "name":"LẨU THÁI HẢI SẢN",
+                            "img":"./img/Lẩu_thái_hải_sản.jpeg",
+                            "describe":"Lẩu Thái Hải Sản là món lẩu ngon, dễ làm, nhà nào cũng thích. Bạn đã biết cách nấu đúng cách cho hải sản tươi ngon?",
+                            "ingredient":["500g Ghẹ",
+                                "200g Tôm",
+                                "200g Nghêu",
+                                "200g Cá hồi",
+                                "200g Mực",
+                                "30g Riềng",
+                                "2 cây sả",
+                                "3 lá chanh 2 trái Ớt hiểm",
+                                "1 muỗng canh hành tím nhuyễn",
+                                "2 muỗng canh đường",
+                                "1 hộp Knorr viên súp Lẩu Thái 20g",
+                                "1 lít Nước",
+                                "1 muỗng nước mắm",
+                                "1 muỗng canh Tương ớt",
+                                "1 muỗng canh Tương cà",
+                                "3 muỗng canh Dầu ăn",
+                                "1 bó Rau nhút, bắp chuối, rau muống"
+                            ],
+                            "making":["Bước 1:Đầu tiên, chúng ta cần rửa sạch hết tất cả nguyên liệu trước khi chế biến để đảm bảo được vệ sinh an toàn thực phẩm. Chúng ta cần chọn các loại hải sản tươi sống, tôm và ghẹ thì nên chọn những con còn sống, mực thì thịt cứng, còn nghêu thì không có mùi hôi. Cá hồi thì cũng nên chọn những con mắt còn tươi xanh, thịt cứng, không bị nhão.",
+                                "Bước 2:Sau khi đã chọn xong các nguyên liệu tươi ngon, chúng ta mang về và rửa sạch rồi để ráo nước. Tôm thì không cần cắt đầu hay lột vỏ, để nguyên con. Còn nghêu thì rửa sạch và để vào rổ cho ráo nước. Cá hồi thì cắt thành từ khúc vừa ăn, dày khoảng 3cm. Mực thì có thể cắt đôi và lấy hết ruột và rửa sạch qua nước muối để khử bớt mùi tanh. Tất cả các nguyên liệu sau khi đã rửa sạch thì nên cho vào những khay riêng hoặc rổ riêng để sau đó chế biến.",
+                                "Bước 3:Còn đối với các loại rau thì chúng ta cần chú ý rửa thật sạch, tốt nhất là nên ngâm sơ qua với nước muối để đảm bảo an toàn sức khỏe hơn. Sau đó cho vào rổ và để ráo.",
+                                "Bước 4:Sau đó, chúng ta lấy rau đã rửa sạch và ráo nước rồi trình bày tất cả ra đĩa. Đối với sả và hành tím, ớt, sau khi rửa sạch thì dùng thớt và dao băm nhuyễn để cho sau đó phi cho thơm ngon hơn.",
+                                "Bước 5:Tiếp theo, chúng ta sẽ dùng một nồi lớn, bật bếp và bắt đầu làm nóng dầu ăn. Sau khi dầu sôi tiêm thì chúng ta tiếp tục xào cho thơm, riềng, sả, hành tím. Sau đó cho thêm tương cà và tương ớt vào nấu. Nhớ lưu ý là để lửa riu riu khoảng 5 phút. Sau đó cho thêm 1 lít nước vào nấu sôi.",
+                                "Bước 6:Bước tiếp theo, sau khi nước đã sôi lên thì chúng ta sẽ nêm với Knorr Viên Súp Lẩu Thái thêm chút nước mắm, đường cho đậm đà. Thêm nước cốt chanh nếu muốn chua hơn. Tùy theo khẩu vị ăn hàng ngày cũng như mỗi gia đình khác nhau mà bạn nên nêm sao cho phù hợp nhé.",
+                                "Bước 7:Và cuối cùng sau khi nước lẩu đã chín chúng ta có thể cho ra một nồi nhổ khác để lửa riu riu và bắt đầu cho các loại nguyên liệu đã chuẩn bị sẵn vào nấu chín. Dùng chung với bún tươi và nước mắm ớt hoặc muối ớt."
+                            ],
+                            "price":80000,
+                            "Prepare":"10 minutes",
+                            "Cook":"30 minutes"
+                        },
+
+                        {
+                            "id":"4",
+                            "name":"LẨU VỊT NẤU CHAO",
+                            "img":"./img/Lẩu_vịt_nấu_chao.jpeg",
+                            "describe":"Lẩu Vịt Nấu Chao là món lẩu ngon đặc sản miền Tây được yêu thích với hương vị đặc trưng, hấp dẫn.",
+                            "ingredient":["1 con vịt tơ (1,7 kg), 4 viên chao trắng 3 viên chao đỏ 500 g khoai môn",
+                                "1 bó rau muống",
+                                "1 muỗng canh Hành tỏi, băm nhỏ",
+                                "1 muông cà phê Dầu hào",
+                                "1 muông cà phê dầu mè",
+                                "2 trái Nước dừa tươi: 2 trái",
+                                "1 hộp Knorr viên súp thịt heo (20g/hộp - 2 viên)",
+                                "1 bó rau muống",
+                                "300g bún tươi"
+                            ],
+                            "making":["Bước 1:Đầu tiên, để chế biến được món lẩu vịt nấu chao này chúng ta cần rửa sạch hết tất cả nguyên liệu trước khi chế biến để đảm bảo được vệ sinh an toàn thực phẩm. Vịt chúng ta cần chú ý mua vịt tơ để thịt mềm và ngon hơn nhé. Những con vịt tơ thường mỏ sẽ mềm và to hơn so với vịt già. Sau khi mua về chúng ta sẽ làm sạch và cho vào rỗ để ráo nước. Còn hành tím thì bóc sạch vỏ và băm nhỏ, tỏi cũng làm tương tự như thế.",
+                                "Bước 2:Bước tiếp theo chúng ta sẽ lấy thịt vịt và chặt thành từng miếng vừa ăn. Sau khi chặt xong chúng ta cho vào một tô lớn và ướp vịt với đường, hành tỏi băm, dầu hào, dầu mè và chao tán nhuyễn. Để ngấm gia vị khoảng 30 phút.",
+                                "Bước 3:Trong thời gian đợi thịt vịt thấm gia vị chúng ta sẽ lấy khoai môn gọt sạch vỏ sau đó rửa sạch và cắt thành từng miếng vừa ăn, rồi cho vào chảo dầu để chiên sơ qua.",
+                                "Bước 4:Bước tiếp theo, chúng ta sẽ bắt đầu phi tỏi thơm và tiếp tục cho vịt vào xào. Nhớ để vừa lửa để thịt vịt được chín đều và ngon hơn. Chúng ta đảo đều thịt vịt và xào cho đến khi thấy thịt vịt bắt đầu săn lại thì mới cho nước dừa vào và hầm thịt mềm.",
+                                "Bước 5:Sau đó, khi thấy thịt vịt đã mềm thì chúng ta tiếp tục cho khoai môn vào nồi đang hầm, rồi nêm với hạt nêm Knorr viên súp thịt heo cho vừa ăn. Tùy theo khẩu vị ăn của từng người và từng nhà mà chúng ta nên nêm với độ mặn nhạt khác sau dao cho dễ ăn, đừng nêm quá mặn hoặc quá nhạt làm mất đi sự hấp dẫn của món ăn. Sau khi nêm xong thì tiếp tục đun cho đến khi nước trong nồi sánh lại.",
+                                "Bước 6:Và bước cuối cùng, chúng ta sẽ cho thức ăn ra nồi lẩu hoặc nồi đất, đun lửa liu riu để giữ nóng và dùng kèm với bún tươi hoặc bánh mì, rau muống và chao. Nếu để bữa thêm phong phú và đa dạng hơn chúng ta thể ăn kèm với một số nước chấm và các món ăn nhẹ khác như chả ram, bánh mì,...để thêm hấp dẫn và đậm vị hơn."
+                            ],
+                            "price":85000,
+                            "Prepare":"20 minutes",
+                            "Cook":"10 minutes"
+                        },
+
+                        {
+                            "id":"5",
+                            "name":"LẨU GÀ LÁ GIANG",
+                            "img":"./img/Lẩu_gà_lá_giang.jpeg",
+                            "describe":"Lẩu gà lá giang là món lẩu ngon, hấp dẫn, ai ai cũng mê. Cuối tuần cùng vào bếp nấu lẩu gà lá giang với công thức đơn giản, đúng chuẩn ngay!",
+                            "ingredient":["1kg Gà ta 1 bó Lá giang",
+                                "2 lít Nước",
+                                "1 muỗng cà phê Nước mắm",
+                                "¼ muỗng cà phê Tiêu",
+                                "1 muỗng canh Đường",
+                                "300g Bún tươi",
+                                "1 muỗng sả, tỏi băm nhuyễn",
+                                "1 hộp Knorr Viên súp thịt heo (20g/hộp - 2 viên)",
+                                "1 muỗng cà phê hạt nêm Knorr",
+                                "1 muỗng canh",
+                                "1 muỗng canh Dầu",
+                                "1 ít tỏi phi",
+                                "1 ít Sa tế",
+                                "300g bún tươi"
+                            ],
+                            "making":["Bước 1:Đầu tiên, để chế biến được món canh gà lá giang này chúng ta cần rửa sạch hết tất cả nguyên liệu trước khi chế biến để đảm bảo được vệ sinh an toàn thực phẩm. Đối với thịt gà, bạn cần chọn đúng thịt gà ta thì khi nấu món canh sẽ ngon hơn. Thịt gà ta sẽ thường săn chắc, tươi, không có mùi hôi, mùi ôi, mùi thuốc kháng sinh giống như thịt gà công nghiệp. Sau khi mua về thì chúng ta sẽ rửa sạch thịt gà. Tốt nhất nên rửa qua với nước muối để an toàn hơn. Sau khi rửa xong chúng ta sẽ chặt gà thành từng miếng nhỏ vừa ăn. Tùy theo sở thích ăn uống của mỗi nhà mà chặt theo kích cỡ khác nhau.",
+                                "Bước 2:Bước tiếp theo, sau khi thịt gà đã chặt thành từng miếng vừa ăn xong thì cho vào một tô lớn và bắt đầu ướp gà với Knorr thịt thăn xương ống và tủy- Bổ sung Vitamin A, nước mắm, tiêu. Rồi để trong khoảng 15 phút cho thấm gia vị.",
+                                "Bước 3:Trong khi đợi gà thấm đều gia vị thì chúng ta cứ tiếp tục lấy lá giang rửa sạch rồi vò dập đi một chút. Còn rau ngò gai thì rửa sạch, thái nhuyễn. Tỏi thì bóc sạch vỏ rồi cũng đem băm nhuyễn. Ớt trái rửa sạch, cắt xéo. Còn sả thì cũng rửa sạch và băm nhuyễn. Lưu ý chúng ta nên để riêng các nguyên liệu với nhau để tiện chế biến, nhưng đối với món ăn này bạn có thể để tỏi với sả băm nhuyễn chung cũng được.",
+                                "Bước 4:Bước kế tiếp, chúng ta cho dầu vào trong nồi và bật bếp làm nóng dầu. Sau khi dầu nóng lên thì phi thêm sả và tỏi vào cho thơm, rồi tiếp tục cho gà đã được ướp vào xào. Chú ý là nên để vừa lửa để xào, tránh trường hợp lửa to gà bị cháy xém. Xào đến khi thịt gà săn lại thì cho nước vào, khi sôi hớt bọt. Rồi để lửa nhỏ và bắt đầu nêm với Knorr viên súp thịt heo, thêm chút đường cho vừa khẩu vị.",
+                                "Bước 5:Sau khi thịt gà đã chín mềm thì bỏ lá giang vào, nước lẩu sôi, nêm lại cho vừa ăn, vị chua ngọt là được. Tùy theo khẩu vị cũng mỗi người và mỗi nhà mà chúng ta nêm nếm sao cho vừa ăn, đừng quá chua và cũng đừng quá ngọt để tránh làm mất đi vị đậm đà của món canh.",
+                                "Bước 6:Và cuối cùng chúng ta sẽ lấy ra tô và dùng. Để cho món ăn thêm phầm hấp dẫn và thẩm mĩ hơn chúng ta có thể cho lên bên trên để vài lát ớt, tỏi phi và ớt sa tế cho thêm phần đậm đà hương vị và ăn kèm bún tươi. Thế là đã chế biến xong món canh gà lá giang. Chúc các bạn sẽ luôn nấu ăn thành công và đậm vị nhé!"
+                            ],
+                            "price":90000,
+                            "Prepare":"20 minutes",
+                            "Cook":"10 minutes"
+                        },
+
+                        {
+                            "id":"6",
+                            "name":"LẨU MÙA XUÂN",
+                            "img":"./img/Lẩu_mùa_xuân.jpeg",
+                            "describe":"Món ngon ngày Tết dễ làm luôn được các bà nội trợ quan tâm.",
+                            "ingredient":["400g Thịt thăn bò",
+                                "400g Cá phi lê",
+                                "300g tôm sú",
+                                "300g mực ống",
+                                "400g gân bò,đuôi bò",
+                                "500g nấm tươi các loại",
+                                "1kg cà chua",
+                                "0,5l nước bưởi ép (không đường)",
+                                "20g ớt khô trái",
+                                "150g củ cải trắng",
+                                "200g mì trứng",
+                                "300g rau bó xôi",
+                                "40g hạt nêm Knorr từ Thịt thăn, Xương ống và Tủy bổ sung Vitamin A",
+                                "2l nước"
+                            ],
+                            "making":["Bước 1:Để thực hiện nấu món lẩu này, đầu tiên, chúng ta cần rửa sạch hết tất cả nguyên liệu trước khi chế biến. Thịt thăn bò, đuôi bò, và gân bò sau khi mua ở chợ về cần rửa sạch và để cho ráo nước.",
+                                "Bước 2:Tiếp theo chúng ta sẽ rửa cá, tôm mực. Đối với các chúng ta có thể chọn cá thu hoặc các basa để thích hợp cho việc nấu lẩu. Sau khi rửa sạch chúng ta sẽ lấy cá cắt thành từ miếng vừa ăn, dày khoảng 3- 5cm tùy theo sở thích ăn uống riêng của mỗi người. Còn mực thì cắt đôi hoặc cắt thành từng khoanh nhỏ, tôm thì có thể để nguyên ngon. Nhớ lưu ý tốt nhất nên để riêng các nguyên liệu này với nhau.",
+                                "Bước 3:Sau đó, chúng ta sẽ lấy thịt bò và thái lát mỏng rồi cho vào một tô nhỏ để qua một bên để chế biến sau.",
+                                "Bước 4:Bước kế tiếp, lấy cà chua rửa sạch và đem luộc chín, lột vỏ ,bỏ hạt và tiếp tục cho vào máy xay nhuyễn. Tiếp đến, lấy rau bó xôi rửa sạch với nước muối sau đó cắt thành từng khúc vừa ăn. Còn nấm tươi thì rửa sạch và cho vào rổ để ráo nước.",
+                                "Bước 5:Tiếp đến, chúng ta dùng nồi lớn và bật bếp để đun sôi 2 lit nước. Khi nước sôi thì cho hạt nêm Knorr, cà chua xay nhuyễn, 0.5 lít nước bưởi đã chuẩn bị sẵn, vào đun khoảng 3 phút thì nêm vừa ăn. Có thể cho thêm củ cải trắng cắt khoanh tròn 3cm, gừng tỉa hoa, ớt khô.",
+                                "Bước 6:Trong khi đợi nước lâu sôi, chúng ta có thể dùng một chiếc chảo nhỏ đẻ phi lê cá.",
+                                "Bước 7:Sau khi phi lê cá xong, chúng ta sẽ trình bày các nguyên liệu thịt bò, tôm, mực, cá, gân, đuôi bò ra đĩa.",
+                                "Bước 8:Và cuối cùng, khi nước lẩu đã chín thì chúng ta cho một ít nước lẩu ra một nồi đất hoặc nồi lẩu để lửa nhỏ và tiếp tục đun sôi nước lẩu. Sau đó cho các nguyên liệu đã chuẩn bị vào nấu chín, ăn kèm mì vàng đã chần quá nước sôi. Chúng ta có thể ăn kèm với một số nước chấm thông thường để món ăn thêm đậm vị nhé."
+                            ],
+                            "price":95000,
+                            "Prepare":"30 minutes",
+                            "Cook":"10 minutes"
                         }
                     ]
                 }
-            ]
-        },
-        {
-            "id": 3,
-            "title": "new Food",
-            "content": "Create new Food success"
-        }
-    ]
+            
+        ]
+    },
+    {
+        "title": "Market",
+        "id": "2",
+        "listStyle": [
+            {
+                "title": "Meat",
+                "id": "1",
+                "img": "./img/thịt_heo_mỹ.jpg",
+                "menu": [
+                    {
+                        "id": "1",
+                        "name": "Thịt heo Mỹ",
+                        "img": "./img/thịt_heo_mỹ.jpg",
+                        "quantitative": "500g/gói",
+                        "price": 30000
+                    },
+                    {
+                        "id": "2",
+                        "name": "Thịt bò Mỹ",
+                        "img": "./img/ba_chỉ_bò_mỹ.jpg",
+                        "quantitative": "500g/gói",
+                        "price": 45000
+                    },
+                    {
+                        "id":"3",
+                        "name":"Thịt gà",
+                        "img":"./img/Thịt_vịt.jpg",
+                        "quantitative":"500g",
+                        "price":30000
+                    },
+                    {
+                        "id":"4",
+                        "name":"Thịt thăn heo",
+                        "img":"./img/thịt_thăn.jpg",
+                        "quantitative":"500g",
+                        "price":35000
+                    },
+                    {
+                        "id":"5",
+                        "name":"Sườn",
+                        "img":"./img/sườn.jpg",
+                        "quantitative":"500g",
+                        "price":33000
+                    },
+                    {
+                        "id":"6",
+                        "name":"Thịt vịt",
+                        "img":"./img/Thịt_vịt.jpg",
+                        "quantitative":"500g",
+                        "price":75500
+                    }
+                ]
+            },
+            {
+                "title": "Drink",
+                "id": "2",
+                "img": "./img/cocacola.jpg",
+                "menu": [
+                    {
+                        "id": "1",
+                        "name": "Coca",
+                        "img": "./img/cocacola.jpg",
+                        "quantitative": "350ml/lon",
+                        "price": 10000
+                    },
+                    {
+                        "id": "2",
+                        "name": "7-Up",
+                        "img": "./img/7up.jpg",
+                        "quantitative": "350ml/lon",
+                        "price": 15000
+                    },
+                    {
+                        "id":"3",
+                        "name":"Pepsi",
+                        "img":"./img/pepsi.jpg",
+                        "quantitative":"350ml/lon",
+                        "price":12345
+                    },
+                    {
+                        "id":"4",
+                        "name":"fanta",
+                        "img":"./img/fanta.jpg",
+                        "quantitative":"350ml/lon",
+                        "price":30010
+                    },
+                    {
+                        "id":"5",
+                        "name":"Nước suối Aquafina",
+                        "img":"./img/aquafina.jpg",
+                        "quantitative":"350ml/lon",
+                        "price":61000
+                    },
+                    {
+                        "id":"6",
+                        "name":"Lon bò húc",
+                        "img":"./img/Bò_húc.jpg",
+                        "quantitative":"350ml/lon",
+                        "price":12000
+                    }
+                ]
+            },
+            {
+                "title": "Vegetables",
+                "id": "3",
+                "img": "./img/bông_cải_xanh.jpg",
+                "menu": [
+                    {
+                        "id":"1",
+                        "name":"Bông cải xanh",
+                        "img":"./img/bông_cải_xanh.jpg",
+                        "quantitative":"500g",
+                        "price":10000
+                    },
+                    {
+                        "id":"2",
+                        "name":"Xà lách",
+                        "img":"./img/xà_lách.jpg",
+                        "quantitative":"500g",
+                        "price":15000
+                    },
+                    {
+                        "id":"3",
+                        "name":"Măng",
+                        "img":"./img/măng.jpg",
+                        "quantitative":"500g",
+                        "price":12340
+                    },
+                    {
+                        "id":"4",
+                        "name":"Rau dền",
+                        "img":"./img/rau_dền.jpg",
+                        "quantitative":"500g",
+                        "price":11110
+                    },
+                    {
+                        "id":"5",
+                        "name":"Rau muống",
+                        "img":"./img/rau_muống.jpg",
+                        "quantitative":"500g",
+                        "price":120
+                    },
+                    {
+                        "id":"6",
+                        "name":"Bắp cải",
+                        "img":"./img/Bắp_cải.jpg",
+                        "quantitative":"500g",
+                        "price":420
+                    }
+                ]
+            }
+        ]
+    }
+]
 }

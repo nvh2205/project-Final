@@ -1,1 +1,120 @@
-{"data":[{"id":1,"nameUser":"Hieu","password":"123455","phoneNumber":"09888888888","email":"nvh@gamil.com","address":"Hà Nội","cart":[],"purchase-history":[]},{"id":2,"title":"new Food","content":"Create new Food succes11111s"},{"id":3,"nameUser":"hieu","email":"nvh@gmail.com","password":"123456","password_confirmation":"123456","phoneNumber":"0399874554","address":"Ha 555"}]}
+{
+    "data": [
+        {
+            "id": "1",
+            "nameUser": "Hieu",
+            "password": "123455",
+            "password_confirmation": "123455",
+            "phoneNumber": "09888888888",
+            "email": "nvh@gamil.com",
+            "address": "Hà Nội",
+            "cart": [],
+            "purchase_history": [],
+            "checkLogin": "false"
+        },
+        {
+            "id": "2",
+            "nameUser": "Hieu2",
+            "email": "nvh2@gmail.com",
+            "password": "123456",
+            "password_confirmation": "123456",
+            "phoneNumber": "0977665444",
+            "address": "Hà nội",
+            "cart": [],
+            "purchase_history": [
+                {
+                    "name": "Thịt heo Mỹ",
+                    "imgProduct": "http://127.0.0.1:5500/client/freshFood/img/th%E1%BB%8Bt_heo_m%E1%BB%B9.jpg",
+                    "amount": "1",
+                    "total": "30000"
+                },
+                {
+                    "name": "Sườn",
+                    "imgProduct": "http://127.0.0.1:5500/client/freshFood/img/s%C6%B0%E1%BB%9Dn.jpg",
+                    "amount": "1",
+                    "total": "33000"
+                },
+                {
+                    "name": "THỊT THĂN CHIÊN VỪNG",
+                    "imgProduct": "http://127.0.0.1:5500/client/freshFood/img/Th%E1%BB%8Bt_th%C4%83n_chi%C3%AAn_v%E1%BB%ABng.jpeg",
+                    "amount": "1",
+                    "total": "60000"
+                },
+                {
+                    "name": "Thịt bò Mỹ",
+                    "imgProduct": "http://127.0.0.1:5500/client/freshFood/img/ba_ch%E1%BB%89_b%C3%B2_m%E1%BB%B9.jpg",
+                    "amount": "1",
+                    "total": "45000"
+                },
+                {
+                    "name": "Thịt heo Mỹ",
+                    "imgProduct": "http://127.0.0.1:5500/client/freshFood/img/th%E1%BB%8Bt_heo_m%E1%BB%B9.jpg",
+                    "amount": "1",
+                    "total": "30000"
+                },
+                {
+                    "name": "Thịt gà",
+                    "imgProduct": "http://127.0.0.1:5500/client/freshFood/img/Th%E1%BB%8Bt_v%E1%BB%8Bt.jpg",
+                    "amount": "1",
+                    "total": "30000"
+                },
+                {
+                    "name": "SƯỜN CHIÊN SẢ ỚT - MÓN NGON TỪ SƯỜN HEO",
+                    "imgProduct": "http://127.0.0.1:5500/client/freshFood/img/s%C6%B0%E1%BB%9Dn_chi%C3%AAn_s%E1%BA%A3_%E1%BB%9Bt.jpg",
+                    "amount": "1",
+                    "total": "40000",
+                    "storage_food": "foods_2_2"
+                }
+            ],
+            "checkLogin": "true"
+        },
+        {
+            "id": "3",
+            "nameUser": "Hieu3",
+            "email": "nvh3@gmail.com",
+            "password": "123456",
+            "password_confirmation": "123456",
+            "phoneNumber": "0378283131",
+            "address": "22",
+            "cart": [],
+            "purchase_history": [],
+            "checkLogin": "false"
+        },
+        {
+            "id": "4",
+            "nameUser": "Hieu123",
+            "email": "huthantai69@gmail.com",
+            "password": "123456",
+            "password_confirmation": "123456",
+            "phoneNumber": "0378283130",
+            "address": "22",
+            "checkLogin": "false",
+            "cart": [],
+            "purchase_history": []
+        },
+        {
+            "id": "5",
+            "nameUser": "Hieu",
+            "password": "123456",
+            "password_confirmation": "123456",
+            "email": "nvh23@gmail.com",
+            "phoneNumber": "0915016591",
+            "address": "22",
+            "checkLogin": "false",
+            "cart": [],
+            "purchase_history": []
+        },
+        {
+            "id": "6",
+            "nameUser": "Hieu",
+            "password": "123456",
+            "password_confirmation": "123456",
+            "email": "nvh2205@gmail.com",
+            "phoneNumber": "0981068631",
+            "address": "22",
+            "checkLogin": "false",
+            "cart": [],
+            "purchase_history": []
+        }
+    ]
+}
